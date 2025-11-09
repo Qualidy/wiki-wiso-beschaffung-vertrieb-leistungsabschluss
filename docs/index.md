@@ -13,10 +13,9 @@ hide:
 # Basis Wiki
 
 <div class="grid cards fancy grid--cols-1" markdown >
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
-- [:material-call-split: **Topic 1**](content/1.md)
+- [:material-call-split: **Übersicht**](content/m1/kundenarten.md)
+- [:material-call-split: **Kundenarten, Vertragsarten & Gesprächsphasen**](content/m1/kundenarten.md)
+- [:material-call-split: **Bedarf und Anforderung im IT-Dienstleistungsprozess**](content/m2/bedarf-und-anforderung.md)
 </div>
 
 </div>
@@ -24,12 +23,6 @@ hide:
 <div style="margin-left: 15px" markdown>
 
 ![](assets/Logo_Qualidy_cmyk.svg)
-
-Hier können weitere Inhalte rein.
-
-[:fontawesome-solid-external-link: Externer Link mit neuen Tab](https://pictogrammers.com/library/mdi/){ target=_blank rel="noopener noreferrer" }
-
-{{ youtube_video("https://www.youtube.com/embed/chPCpYNJe_Q?si=frU_Z_VwSGnPWEPF") }}
 
 !!! tip "Schneller Navigieren"
 

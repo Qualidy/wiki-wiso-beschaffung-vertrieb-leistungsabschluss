@@ -64,7 +64,7 @@ Ein anfechtbarer Vertrag ist zunächst **wirksam**, kann aber rückwirkend aufge
 
 ## Ablauf einer Anfechtung
 
-| Schritt | Be
+| Schritt | Beschreibung |
 |----------|--------------|
 | **1. Anfechtungsgrund prüfen** | Liegt ein gesetzlich anerkannter Irrtum, eine Täuschung oder Drohung vor? |
 | **2. Frist beachten** | Unverzüglich nach Entdeckung (§ 121 BGB). |
