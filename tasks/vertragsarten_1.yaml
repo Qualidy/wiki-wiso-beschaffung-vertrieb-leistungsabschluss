@@ -1,0 +1,30 @@
+title: Vertragsarten im IT-Bereich
+question: |
+  Ordnen Sie die folgenden Situationen der passenden Vertragsart zu 
+  (Kaufvertrag, Dienstvertrag, Werkvertrag) und begründen Sie Ihre Entscheidung.
+
+  **Fälle**
+
+  1. Wir liefern 12 iPads an eine Schule.  
+  2. Wir richten beim Kunden ein neues WLAN ein – inklusive Messung.  
+  3. Wir überwachen die Server eines Kunden 24/7 gegen monatliche Pauschale.  
+  4. Wir entwickeln eine kleine Web-Anwendung nach Vorgabe.  
+  5. Wir beraten den Kunden zwei Stunden zur IT-Sicherheit.  
+  6. Wir verkaufen fünf Office-Lizenzen.
+
+  **Hinweis:**  
+  Achten Sie darauf, ob ein Ergebnis, eine Sache oder eine Tätigkeit geschuldet wird.
+
+tip: |
+  - Kaufvertrag → Eigentumsübertragung steht im Vordergrund.  
+  - Dienstvertrag → Arbeitsleistung ohne Erfolgspflicht.  
+  - Werkvertrag → konkretes Ergebnis mit Abnahme.  
+  Überlegen Sie bei Mischformen, welche Leistung den Schwerpunkt bildet.
+
+#solution: |
+#  1 → Kaufvertrag
+#  2 → Werkvertrag
+#  3 → Dienstvertrag
+#  4 → Werkvertrag
+#  5 → Dienstvertrag
+#  6 → Kaufvertrag

@@ -28,6 +28,17 @@ def define_env(env):
     def python_tutor_button(code_string, title="Code im Debugger ansehen"):
         return generate_pythontutor_button(code_string, title=title)
 
+    @env.macro
+    def link(text="", url="", new_tab=True, icon=":fontawesome-solid-external-link:"):
+        result = f'[{icon} {text}]({url})'
+        if new_tab:
+            result +='{ target=_blank rel="noopener noreferrer" }'
+        return result
+
+    @env.macro
+    def mail(mail="", text=None):
+        return f'<a href="mailto:{mail}">{text if text else mail}</a>'
+
 
 def youtube_video_admonition(inner_url, title='Video'):
     return f'''??? video "{title}"
@@ -103,7 +114,7 @@ def generate_pythontutor_iframe(code_string, title='Python Tutor'):
     iframe_tag = f'''!!! python_tutor "{title}"
 
     <div class="python_tutor_container">
-        <iframe src="{full_url}" title="{title}" frameborder="0" 
+        <iframe src="{full_url}" title="{title}" frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         referrerpolicy="strict-origin-when-cross-origin" allowfullscreen
         style="width: 100%; height: {code_div_height}px;">

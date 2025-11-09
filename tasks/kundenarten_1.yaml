@@ -1,0 +1,26 @@
+title: Kundenarten und Kommunikation im Vergleich
+question: |
+  Ordnen Sie die folgenden Szenarien den passenden Kundenarten zu und erläutern Sie kurz,
+  wie sich die Kommunikation jeweils unterscheiden sollte.
+
+  **Szenarien**
+  
+  1. Eine Steuerkanzlei möchte ihre Server auf Cloud-Infrastruktur umstellen.  
+  2. Eine Privatperson sucht ein neues Notebook für ihr Homeoffice.  
+  3. Eine Schule plant, den Computerraum zu erneuern.  
+  4. Die Personalabteilung benötigt eine Software zur Zeiterfassung.
+
+  **Hinweis:**  
+  Überlegen Sie, wer die Entscheidung trifft, welche Erwartungen bestehen und wie formal die Kommunikation verlaufen sollte.
+
+tip: |
+  Denken Sie daran: Fachsprache funktioniert nur dort, wo sie verstanden wird.  
+  Passen Sie Ihren Stil also an den Wissensstand und die Rolle Ihres Gegenübers an.
+
+#solution: |
+#  **Lösung:**
+#
+#  1 → Geschäftskunde (B2B) – Kommunikation sachlich, strukturiert, mit Leistungsbeschreibung.
+#  2 → Privatkunde (B2C) – einfach, freundlich, lösungsorientiert.
+#  3 → Öffentlicher Auftraggeber – formal, präzise, mit Nachweisen.
+#  4 → Interner Kunde – kollegial, aber verbindlich.

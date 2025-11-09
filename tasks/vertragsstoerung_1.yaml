@@ -1,0 +1,43 @@
+title: Vertragsstörungen – Anfechtbare Verträge (§§ 119–123 BGB)
+question: |
+  In jedem Unternehmen können Verträge durch Irrtümer, Missverständnisse oder Täuschungen entstehen.  
+  Lies die folgenden **vier Fälle** und entscheide, ob und auf welcher Grundlage der Vertrag **angefochten** werden kann.
+
+  ---
+  **Fall 1:**  
+  Ein IT-Techniker verschreibt sich im Angebot – statt *3.200 €* schreibt er *320 €*.  
+  Der Kunde nimmt das Angebot an.
+
+  **Fall 2:**  
+  Eine Mitarbeiterin übermittelt ein Angebot per E-Mail und vertauscht versehentlich zwei Ziffern im Preis.
+
+  **Fall 3:**  
+  Ein Händler verkauft „neue“ Monitore, die sich später als gebraucht herausstellen.
+
+  **Fall 4:**  
+  Ein Kunde unterschreibt einen Vertrag, nachdem ihm gedroht wurde, sonst werde die Lieferung gestoppt.
+
+  ---
+  🔹 Entscheide für jeden Fall:
+  - Ist der Vertrag **anfechtbar** oder **nicht anfechtbar**?
+  - Wenn ja: **nach welchem Paragraphen des BGB?**
+  - Welche **Folge** hat die Anfechtung?
+solution: |
+  **Fall 1 – Erklärungsirrtum (§ 119 Abs. 1 BGB)**  
+  → Vertrag ist **anfechtbar**; er kam durch ein Versehen beim Schreiben zustande.  
+  → Wird der Vertrag angefochten, gilt er rückwirkend als nichtig (§ 142 BGB).  
+  → Der Irrende kann nach § 122 BGB **Schadensersatzpflichtig** sein.
+
+  **Fall 2 – Übermittlungsirrtum (§ 120 BGB)**  
+  → Vertrag ist **anfechtbar**; die Erklärung wurde durch eine Mitarbeiterin falsch übermittelt.  
+  → Gleiches Ergebnis wie beim Erklärungsirrtum.
+
+  **Fall 3 – Arglistige Täuschung (§ 123 BGB)**  
+  → Vertrag ist **anfechtbar**; der Verkäufer hat bewusst falsche Tatsachen angegeben.  
+  → Anfechtung möglich bis zu einem Jahr nach Entdeckung (§ 124 BGB).
+
+  **Fall 4 – Widerrechtliche Drohung (§ 123 Abs. 2 BGB)**  
+  → Vertrag ist **anfechtbar**, da er unter Zwang zustande kam.  
+  → Vertrag gilt nach erfolgreicher Anfechtung als **von Anfang an nichtig** (§ 142 BGB).
+tip: |
+  Eine Anfechtung muss **unverzüglich (§ 121 BGB)** erklärt werden, sobald der Irrtum oder die Täuschung erkannt wurde.
