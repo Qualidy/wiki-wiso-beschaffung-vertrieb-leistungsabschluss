@@ -12,25 +12,25 @@ nav:
           - Vertragsstörungen & Anfechtung: content/m1/vertragsstoerungen_anfechtung.md
       - Gesprächsphasen: content/m1/gespraechsphasen.md
 
-  - Bedarf & Anforderungen:
-      - Bedarf und Anforderung: content/m2/bedarf-und-anforderung.md
-      - Gruppenarbeit: content/m2/bedarf-und-anforderung-gruppenarbeit.md
-      - Reflexion & IPERKA-Transfer: content/m2/iperka_reflexion.md
-
-  - Kalkulation & Wirtschaftlichkeit:
-      - Kalkulation in IT-Projekten – Grundlagen, Stundensätze und Rendite: content/m3/kalkulation_grundlagen.md
-      - Handelskalkulation – Vom Einkauf bis zum Verkaufspreis: content/m3/kalkulation_handelskalkulation.md
-      - Stundensatzkalkulation in IT-Dienstleistungen: content/m3/kalkulation_stundensatz.md
-      - Wirtschaftlichkeit von IT-Investitionen – TCO & ROI: content/m3/tco_roi.md
-
-  - Angebotsvergleiche:
-      - Angebotsvergleiche bei Beschaffungsmaßnahmen durchführen: content/m4/angebotsvergleich.md
-      - Quantitativer Angebotsvergleich – Bezugspreisrechnungen: content/m4/quantitativer_angebotsvergleich.md
-      - Qualitative Angebotsvergleiche – Nutzwertanalyse: content/m4/nutzwertanalyse.md
-
-  - Lieferung, Abnahme & Kontrolle:
-      - Lieferung, Abnahme & Kontrolle: content/m5/lieferung_und_uebergabe.md
-      - Arbeitssicherheit, IT-Schutz & Umweltschutz: content/m5/arbeitssicherheit_und_umweltschutz.md
+#  - Bedarf & Anforderungen:
+#      - Bedarf und Anforderung: content/m2/bedarf-und-anforderung.md
+#      - Gruppenarbeit: content/m2/bedarf-und-anforderung-gruppenarbeit.md
+#      - Reflexion & IPERKA-Transfer: content/m2/iperka_reflexion.md
+#
+#  - Kalkulation & Wirtschaftlichkeit:
+#      - Kalkulation in IT-Projekten – Grundlagen, Stundensätze und Rendite: content/m3/kalkulation_grundlagen.md
+#      - Handelskalkulation – Vom Einkauf bis zum Verkaufspreis: content/m3/kalkulation_handelskalkulation.md
+#      - Stundensatzkalkulation in IT-Dienstleistungen: content/m3/kalkulation_stundensatz.md
+#      - Wirtschaftlichkeit von IT-Investitionen – TCO & ROI: content/m3/tco_roi.md
+#
+#  - Angebotsvergleiche:
+#      - Angebotsvergleiche bei Beschaffungsmaßnahmen durchführen: content/m4/angebotsvergleich.md
+#      - Quantitativer Angebotsvergleich – Bezugspreisrechnungen: content/m4/quantitativer_angebotsvergleich.md
+#      - Qualitative Angebotsvergleiche – Nutzwertanalyse: content/m4/nutzwertanalyse.md
+#
+#  - Lieferung, Abnahme & Kontrolle:
+#      - Lieferung, Abnahme & Kontrolle: content/m5/lieferung_und_uebergabe.md
+#      - Arbeitssicherheit, IT-Schutz & Umweltschutz: content/m5/arbeitssicherheit_und_umweltschutz.md
 theme:
   name: material
   palette:
