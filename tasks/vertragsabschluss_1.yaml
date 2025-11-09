@@ -15,14 +15,14 @@ question: |
 
 tip: |
   Ein Vertrag entsteht erst, wenn **zwei übereinstimmende Willenserklärungen** vorliegen – also ein **Angebot** und eine **Annahme**.
-solution: |
-  | Nr. | Lösung |
-  |-----|--------|
-  | 1 | Anfrage |
-  | 2 | Angebot |
-  | 3 | Annahme (→ Vertrag kommt zustande) |
-  | 4 | Angebotsbedingung (Frist) |
-  | 5 | Annahme (→ Vertrag kommt zustande) |
-  | 6 | Vertragsbestandteil (AGB) |
-  | 7 | Annahme (→ Vertrag kommt zustande) |
-  | 8 | Vertrag geschlossen (konkludente Annahme) |
+#solution: |
+#  | Nr. | Lösung |
+#  |-----|--------|
+#  | 1 | Anfrage |
+#  | 2 | Angebot |
+#  | 3 | Annahme (→ Vertrag kommt zustande) |
+#  | 4 | Angebotsbedingung (Frist) |
+#  | 5 | Annahme (→ Vertrag kommt zustande) |
+#  | 6 | Vertragsbestandteil (AGB) |
+#  | 7 | Annahme (→ Vertrag kommt zustande) |
+#  | 8 | Vertrag geschlossen (konkludente Annahme) |
