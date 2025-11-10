@@ -1,0 +1,26 @@
+title: Anforderungen formulieren – Vom Bedarf zur Spezifikation
+question: |
+  Übertragen Sie die ermittelten Informationen in eine **technisch überprüfbare Form**.  
+  Formulieren Sie für jede Anforderung:
+  - **was** umgesetzt werden soll,
+  - **wie** es überprüft werden kann (z. B. messbar, nachvollziehbar).
+
+  Beispiel:
+  - Statt: „Schneller Rechner“
+  - Besser: „Desktop-PC mit Intel i7, 16 GB RAM, 1 TB SSD, Windows 11 Pro“
+tip: |
+  Achten Sie auf die **SMART-Kriterien**:
+  - *Spezifisch* – klar beschrieben  
+  - *Messbar* – überprüfbar  
+  - *Akzeptiert* – mit dem Kunden abgestimmt  
+  - *Realistisch* – umsetzbar im Budget  
+  - *Terminiert* – zeitlich planbar
+#solution: |
+#  **Beispielhafte Anforderungen:**
+#  - Bereitstellung eines Arbeitsplatz-PCs mit Windows 11 Pro, 16 GB RAM und SSD 1 TB
+#  - Einrichtung eines Benutzerkontos mit Zugriff auf Mandantenverwaltung (DATEV)
+#  - Installation von Office 365 Business und E-Mail-Synchronisation mit Exchange
+#  - VPN-Zugang für Homeoffice vorbereiten
+#  - Tägliche automatische Datensicherung auf NAS mit 30 Tage-Retention
+#  - Ausstattung mit zwei 24"-Monitoren und ergonomischer Tastatur
+#  - Integration ins vorhandene Backup- und Sicherheitskonzept der Kanzlei

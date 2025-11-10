@@ -1,0 +1,24 @@
+title: Peer-Feedback – Präsentationen bewerten
+question: |
+  Bewerten Sie die Präsentation einer anderen Gruppe anhand folgender Kriterien.  
+  Vergeben Sie jeweils 1 (bedingt erfüllt) bis 3 (voll erfüllt) Punkte.
+
+  | Kriterium | Leitfrage | Punkte (1–3) |
+  |------------|------------|--------------|
+  | Vollständigkeit | Sind alle relevanten Aspekte enthalten? | |
+  | Nachvollziehbarkeit | Sind die Anforderungen klar und logisch dargestellt? | |
+  | Struktur | Ist der Aufbau verständlich und übersichtlich? | |
+  | Bezug zum Bedarf | Wird klar, welches Problem gelöst werden soll? | |
+  | Kommunikation | Wirkt die Präsentation sicher und überzeugend? | |
+
+  Fügen Sie anschließend **einen Satz Feedback** hinzu:
+  - Was war besonders gelungen?
+  - Was könnte verbessert werden?
+tip: |
+  Feedback ist kein Urteil, sondern ein Werkzeug.  
+  Formulieren Sie Ihre Rückmeldung **wertschätzend, konkret und auf Augenhöhe.**
+#solution: |
+#  **Beispielhafte Rückmeldung:**
+#
+#  > *„Euer Anforderungskatalog war sehr strukturiert, besonders die Priorisierung war nachvollziehbar.
+#  Beim nächsten Mal könntet ihr noch genauer auf Datenschutzanforderungen eingehen – das würde es perfekt abrunden.“*

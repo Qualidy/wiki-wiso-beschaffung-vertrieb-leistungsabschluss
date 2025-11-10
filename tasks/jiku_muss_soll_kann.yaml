@@ -1,0 +1,23 @@
+title: Anforderungen priorisieren – Muss, Soll oder Kann?
+question: |
+  Überprüfen Sie Ihre Anforderungsliste und ordnen Sie jede Position einer der drei Kategorien zu:
+
+  - **MUSS** – zwingend erforderlich, ohne diese Funktion ist der Arbeitsplatz nicht nutzbar  
+  - **SOLL** – wünschenswert, aber kurzfristig aufschiebbar  
+  - **KANN** – optionale Ergänzung, Komfort oder Erweiterung
+
+  Erstellen Sie dazu eine Tabelle in Word oder Excel mit drei Spalten.
+tip: |
+  Denken Sie aus Sicht des Kunden:  
+  Was ist wirklich unverzichtbar?  
+  Was könnte im nächsten Schritt ergänzt werden?
+#solution: |
+#  **Beispielhafte Zuordnung:**
+#  | Kategorie | Anforderung |
+#  |------------|-------------|
+#  | MUSS | Arbeitsplatz-PC mit Windows 11 Pro, Zugriff auf DATEV |
+#  | MUSS | Benutzerkonto mit Netzlaufwerk und E-Mail |
+#  | SOLL | VPN-Zugang für Homeoffice |
+#  | SOLL | Headset für digitale Besprechungen |
+#  | KANN | Dockingstation und dritter Monitor |
+#  | KANN | Kabelmanagement-Set für Tischorganisation |
