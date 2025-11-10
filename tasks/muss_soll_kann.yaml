@@ -1,0 +1,15 @@
+title: Anforderungen priorisieren – Muss / Soll / Kann
+question: |
+  Ordnen Sie jede der folgenden Anforderungen einer Kategorie zu:
+
+  - Zugriff auf ERP-System  
+  - Zweiter Monitor  
+  - Funkmaus  
+  - Windows 11 Pro  
+  - Druckeranbindung an Etikettendrucker  
+  - Einrichtung bis zum 15. des Monats  
+  - Headset für Teams-Telefonie
+
+  **MUSS:** Ohne diese Anforderung kann das System nicht genutzt werden.  
+  **SOLL:** Wichtig, aber im Zweifel verhandelbar.  
+  **KANN:** Komfort oder optionale Ergänzung.
