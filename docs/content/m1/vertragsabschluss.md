@@ -83,7 +83,7 @@ Damit ein Vertrag rechtlich wirksam ist, müssen folgende Bedingungen erfüllt s
 
 ---
 
-## 5. AGB und individuelle Vereinbarungen
+## AGB und individuelle Vereinbarungen
 
 Viele Unternehmen verwenden **Allgemeine Geschäftsbedingungen (AGB)**, um Verträge zu vereinheitlichen.
 
@@ -142,7 +142,7 @@ Nicht jeder Vertrag, der abgeschlossen wird, ist auch **wirksam**.
 
 ---
 
-## 9. Aufgaben
+## Aufgaben
 
 {{ task(file="tasks/vertragsabschluss_1.yaml") }}
 

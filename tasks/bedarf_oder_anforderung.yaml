@@ -1,0 +1,14 @@
+title: Bedarf oder Anforderung?
+question: |
+  Entscheiden Sie bei jeder Aussage, ob es sich um **Bedarf** oder **Anforderung** handelt,  
+  und begründen Sie Ihre Einschätzung in einem Satz.
+
+  1. „Wir haben neue Mitarbeiter, die brauchen Arbeitsplätze.“
+  2. „Es sollen drei Rechner mit Office-Lizenz und Anschluss an das Firmennetz bereitgestellt werden.“
+  3. „Das WLAN reicht nicht bis in den Besprechungsraum.“
+  4. „Die Reichweite des WLAN ist auf 15 m im 2. OG zu erhöhen.“
+  5. „Wir wollen, dass Außendienstmitarbeiter von unterwegs auf das System zugreifen können.“
+  6. „Es ist ein VPN-Zugang für 12 Benutzer mit Zwei-Faktor-Authentifizierung bereitzustellen.“
+tip: |
+  Bedarf beschreibt das **Problem oder Ziel**,  
+  Anforderung beschreibt die **technisch überprüfbare Umsetzung**.
