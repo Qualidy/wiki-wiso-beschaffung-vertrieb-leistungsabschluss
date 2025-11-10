@@ -12,11 +12,11 @@ nav:
           - Vertragsstörungen & Anfechtung: content/m1/vertragsstoerungen_anfechtung.md
       - Gesprächsphasen: content/m1/gespraechsphasen.md
 
-#  - Bedarf & Anforderungen:
-#      - Bedarf und Anforderung: content/m2/bedarf-und-anforderung.md
-#      - Gruppenarbeit: content/m2/bedarf-und-anforderung-gruppenarbeit.md
-#      - Reflexion & IPERKA-Transfer: content/m2/iperka_reflexion.md
-#
+  - Bedarf & Anforderungen:
+      - Bedarf und Anforderung: content/m2/bedarf-und-anforderung.md
+      - Gruppenarbeit: content/m2/bedarf-und-anforderung-gruppenarbeit.md
+      - Reflexion & IPERKA-Transfer: content/m2/iperka_reflexion.md
+
 #  - Kalkulation & Wirtschaftlichkeit:
 #      - Kalkulation in IT-Projekten – Grundlagen, Stundensätze und Rendite: content/m3/kalkulation_grundlagen.md
 #      - Handelskalkulation – Vom Einkauf bis zum Verkaufspreis: content/m3/kalkulation_handelskalkulation.md
