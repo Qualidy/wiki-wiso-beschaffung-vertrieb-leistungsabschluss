@@ -21,10 +21,10 @@ tip: |
   - Werkvertrag → konkretes Ergebnis mit Abnahme.  
   Überlegen Sie bei Mischformen, welche Leistung den Schwerpunkt bildet.
 
-#solution: |
-#  1 → Kaufvertrag
-#  2 → Werkvertrag
-#  3 → Dienstvertrag
-#  4 → Werkvertrag
-#  5 → Dienstvertrag
-#  6 → Kaufvertrag
+solution: |
+  1 → Kaufvertrag
+  2 → Werkvertrag
+  3 → Dienstvertrag
+  4 → Werkvertrag
+  5 → Dienstvertrag
+  6 → Kaufvertrag

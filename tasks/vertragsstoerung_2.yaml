@@ -17,18 +17,18 @@ question: |
 
   **Fall 4:**  
   Ein Kunde bestellt telefonisch Waren; die Lieferung erfolgt sofort, ohne schriftliche Bestätigung.
-#solution: |
-#  **Fall 1 – Scherzgeschäft (§ 118 BGB)**
-#  → Vertrag ist **nichtig**, da keine ernsthafte Willenserklärung vorliegt.
-#
-#  **Fall 2 – Verstoß gegen Gesetz (§ 134 BGB)**
-#  → Vertrag ist **nichtig**, da der Verkauf ohne Berechtigung gegen Urheberrecht verstößt.
-#
-#  **Fall 3 – Beschränkt geschäftsfähig (§ 108 BGB)**
-#  → Vertrag ist **schwebend unwirksam**, bis die Eltern zustimmen.
-#
-#  **Fall 4 – Formfreiheit (§ 125 BGB)**
-#  → Vertrag ist **gültig**, da Kaufverträge grundsätzlich formfrei sind (§ 433 BGB).
+solution: |
+  **Fall 1 – Scherzgeschäft (§ 118 BGB)**
+  → Vertrag ist **nichtig**, da keine ernsthafte Willenserklärung vorliegt.
+
+  **Fall 2 – Verstoß gegen Gesetz (§ 134 BGB)**
+  → Vertrag ist **nichtig**, da der Verkauf ohne Berechtigung gegen Urheberrecht verstößt.
+
+  **Fall 3 – Beschränkt geschäftsfähig (§ 108 BGB)**
+  → Vertrag ist **schwebend unwirksam**, bis die Eltern zustimmen.
+
+  **Fall 4 – Formfreiheit (§ 125 BGB)**
+  → Vertrag ist **gültig**, da Kaufverträge grundsätzlich formfrei sind (§ 433 BGB).
 tip: |
   Merke:  
   - **Nichtig** = nie gültig gewesen.  

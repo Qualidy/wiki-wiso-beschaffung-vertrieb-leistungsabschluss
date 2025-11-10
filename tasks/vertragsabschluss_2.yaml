@@ -25,9 +25,9 @@ question: |
 tip: |
   Ein Vertrag kommt nur zustande, wenn das Angebot **rechtzeitig, eindeutig und fehlerfrei** angenommen wird.  
   Beachten Sie außerdem Irrtums- und Fristenregelungen (§§ 119 ff., 147 BGB).
-#solution: |
-#  **Fall A:** Kein Vertrag – nur unverbindliche Auskunft, keine Annahme.
-#  **Fall B:** Kein Vertrag – Angebot war abgelaufen (§ 147 BGB).
-#  **Fall C:** Vertrag anfechtbar wegen Erklärungsirrtum (§ 119 BGB).
-#  **Fall D:** Vertrag gültig, Leistung erfolgt – Kunde hat aber Prüfpflicht (§ 377 HGB).
-#  **Fall E:** Vertrag wirksam geschlossen – Annahme durch Klick im Fernabsatz (§ 312 b BGB).
+solution: |
+  **Fall A:** Kein Vertrag – nur unverbindliche Auskunft, keine Annahme.
+  **Fall B:** Kein Vertrag – Angebot war abgelaufen (§ 147 BGB).
+  **Fall C:** Vertrag anfechtbar wegen Erklärungsirrtum (§ 119 BGB).
+  **Fall D:** Vertrag gültig, Leistung erfolgt – Kunde hat aber Prüfpflicht (§ 377 HGB).
+  **Fall E:** Vertrag wirksam geschlossen – Annahme durch Klick im Fernabsatz (§ 312 b BGB).
