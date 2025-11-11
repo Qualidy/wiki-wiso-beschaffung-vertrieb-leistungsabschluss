@@ -15,12 +15,12 @@ tip: |
   - *Akzeptiert* – mit dem Kunden abgestimmt  
   - *Realistisch* – umsetzbar im Budget  
   - *Terminiert* – zeitlich planbar
-#solution: |
-#  **Beispielhafte Anforderungen:**
-#  - Bereitstellung eines Arbeitsplatz-PCs mit Windows 11 Pro, 16 GB RAM und SSD 1 TB
-#  - Einrichtung eines Benutzerkontos mit Zugriff auf Mandantenverwaltung (DATEV)
-#  - Installation von Office 365 Business und E-Mail-Synchronisation mit Exchange
-#  - VPN-Zugang für Homeoffice vorbereiten
-#  - Tägliche automatische Datensicherung auf NAS mit 30 Tage-Retention
-#  - Ausstattung mit zwei 24"-Monitoren und ergonomischer Tastatur
-#  - Integration ins vorhandene Backup- und Sicherheitskonzept der Kanzlei
+solution: |
+  **Beispielhafte Anforderungen:**
+  - Bereitstellung eines Arbeitsplatz-PCs mit Windows 11 Pro, 16 GB RAM und SSD 1 TB
+  - Einrichtung eines Benutzerkontos mit Zugriff auf Mandantenverwaltung (DATEV)
+  - Installation von Office 365 Business und E-Mail-Synchronisation mit Exchange
+  - VPN-Zugang für Homeoffice vorbereiten
+  - Tägliche automatische Datensicherung auf NAS mit 30 Tage-Retention
+  - Ausstattung mit zwei 24"-Monitoren und ergonomischer Tastatur
+  - Integration ins vorhandene Backup- und Sicherheitskonzept der Kanzlei

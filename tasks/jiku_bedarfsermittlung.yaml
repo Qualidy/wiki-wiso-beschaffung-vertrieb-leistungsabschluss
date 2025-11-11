@@ -11,15 +11,15 @@ question: |
 tip: |
   Gute Bedarfsanalyse-Fragen beginnen mit *„Wie…?“, „Was genau…?“ oder „Wer…?“*  
   Vermeiden Sie Ja/Nein-Fragen – sie liefern kaum Informationen.
-#solution: |
-#  **Beispielfragen:**
-#  1. Welche Aufgaben wird die neue Mitarbeiterin konkret übernehmen?
-#  2. Welche Programme oder Systeme nutzt die Abteilung bisher?
-#  3. Gibt es bereits einen Arbeitsplatz, der als Vorlage dienen kann?
-#  4. Soll der neue PC an ein bestehendes Netzwerk angebunden werden?
-#  5. Wie sind Zugriffsrechte auf Server oder Daten geregelt?
-#  6. Gibt es Anforderungen an Datensicherung oder Archivierung?
-#  7. Wie viele Monitore sind gewünscht bzw. erlaubt?
-#  8. Wird der Arbeitsplatz stationär oder mobil genutzt?
-#  9. Welche Peripheriegeräte (Drucker, Scanner, Telefon) müssen eingebunden werden?
-#  10. Bis wann soll der Arbeitsplatz einsatzbereit sein?
+solution: |
+  **Beispielfragen:**
+  1. Welche Aufgaben wird die neue Mitarbeiterin konkret übernehmen?
+  2. Welche Programme oder Systeme nutzt die Abteilung bisher?
+  3. Gibt es bereits einen Arbeitsplatz, der als Vorlage dienen kann?
+  4. Soll der neue PC an ein bestehendes Netzwerk angebunden werden?
+  5. Wie sind Zugriffsrechte auf Server oder Daten geregelt?
+  6. Gibt es Anforderungen an Datensicherung oder Archivierung?
+  7. Wie viele Monitore sind gewünscht bzw. erlaubt?
+  8. Wird der Arbeitsplatz stationär oder mobil genutzt?
+  9. Welche Peripheriegeräte (Drucker, Scanner, Telefon) müssen eingebunden werden?
+  10. Bis wann soll der Arbeitsplatz einsatzbereit sein?

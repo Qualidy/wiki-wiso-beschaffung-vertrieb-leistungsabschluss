@@ -13,28 +13,28 @@ question: |
 tip: |
   Strukturieren Sie Ihre Ergebnisse klar und lesbar.  
   Das Dokument soll so aufgebaut sein, dass es **direkt an den Vertrieb übergeben** werden kann.
-#solution: |
-#  **Beispielhafte Gliederung:**
-#
-#  **Kunde:** Kanzlei Dr. Bergmann & Partner
-#  **Ansprechpartnerin:** Claudia Bergmann
-#  **Projekt:** Arbeitsplatz für neue Mitarbeiterin (Mandantenverwaltung)
-#
-#  **Bedarf:**
-#  Einrichtung eines funktionsfähigen, sicheren Arbeitsplatzes mit Zugriff auf DATEV und interne Daten, einschließlich Homeoffice-Option.
-#
-#  **Technische Anforderungen (Auszug):**
-#  - Windows 11 Pro, i7, 16 GB RAM, SSD 1 TB
-#  - Office 365 Business, DATEV
-#  - VPN-Zugang
-#  - Backup auf NAS, Retention 30 Tage
-#  - 2 × 24″ Monitore, ergonomische Peripherie
-#
-#  **Priorisierung:**
-#  - MUSS: PC, DATEV, Office 365, Backup
-#  - SOLL: VPN, Headset
-#  - KANN: dritter Monitor, Dockingstation
-#
-#  **Risiken / Hinweise:**
-#  - VPN-Integration prüfen (Firewall-Freigabe nötig)
-#  - Lieferzeit Monitore noch unbestätigt
+solution: |
+  **Beispielhafte Gliederung:**
+
+  **Kunde:** Kanzlei Dr. Bergmann & Partner
+  **Ansprechpartnerin:** Claudia Bergmann
+  **Projekt:** Arbeitsplatz für neue Mitarbeiterin (Mandantenverwaltung)
+
+  **Bedarf:**
+  Einrichtung eines funktionsfähigen, sicheren Arbeitsplatzes mit Zugriff auf DATEV und interne Daten, einschließlich Homeoffice-Option.
+
+  **Technische Anforderungen (Auszug):**
+  - Windows 11 Pro, i7, 16 GB RAM, SSD 1 TB
+  - Office 365 Business, DATEV
+  - VPN-Zugang
+  - Backup auf NAS, Retention 30 Tage
+  - 2 × 24″ Monitore, ergonomische Peripherie
+
+  **Priorisierung:**
+  - MUSS: PC, DATEV, Office 365, Backup
+  - SOLL: VPN, Headset
+  - KANN: dritter Monitor, Dockingstation
+
+  **Risiken / Hinweise:**
+  - VPN-Integration prüfen (Firewall-Freigabe nötig)
+  - Lieferzeit Monitore noch unbestätigt

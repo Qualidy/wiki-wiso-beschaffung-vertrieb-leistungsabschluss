@@ -11,13 +11,13 @@ tip: |
   Denken Sie aus Sicht des Kunden:  
   Was ist wirklich unverzichtbar?  
   Was könnte im nächsten Schritt ergänzt werden?
-#solution: |
-#  **Beispielhafte Zuordnung:**
-#  | Kategorie | Anforderung |
-#  |------------|-------------|
-#  | MUSS | Arbeitsplatz-PC mit Windows 11 Pro, Zugriff auf DATEV |
-#  | MUSS | Benutzerkonto mit Netzlaufwerk und E-Mail |
-#  | SOLL | VPN-Zugang für Homeoffice |
-#  | SOLL | Headset für digitale Besprechungen |
-#  | KANN | Dockingstation und dritter Monitor |
-#  | KANN | Kabelmanagement-Set für Tischorganisation |
+solution: |
+  **Beispielhafte Zuordnung:**
+  | Kategorie | Anforderung |
+  |------------|-------------|
+  | MUSS | Arbeitsplatz-PC mit Windows 11 Pro, Zugriff auf DATEV |
+  | MUSS | Benutzerkonto mit Netzlaufwerk und E-Mail |
+  | SOLL | VPN-Zugang für Homeoffice |
+  | SOLL | Headset für digitale Besprechungen |
+  | KANN | Dockingstation und dritter Monitor |
+  | KANN | Kabelmanagement-Set für Tischorganisation |
