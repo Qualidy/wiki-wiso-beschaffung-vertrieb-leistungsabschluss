@@ -6,8 +6,8 @@ Bevor in einem IT-Projekt eine einzige Zeile Code entsteht oder ein Gerät beste
 Die Fähigkeit, zwischen einem Wunsch, einem Bedarf und einer konkreten Anforderung zu unterscheiden, ist die Grundlage jeder technischen Planung.  
 Sie trennt den Verkäufer vom Berater – und den Fachinformatiker vom „Computerflicker“.
 
-!!! quote
-   „Wer nicht genau versteht, was verlangt ist, programmiert am Ende ein anderes Problem.“
+!!! quote 
+      Wer nicht genau versteht, was verlangt ist, programmiert am Ende ein anderes Problem.
 
 ---
 
@@ -23,9 +23,9 @@ Diese drei Ebenen sind kein theoretisches Modell, sondern ein realer Kommunikati
 Unsere Aufgabe ist die Übersetzung: **vom menschlichen Bedürfnis zur überprüfbaren Spezifikation.**
 
 !!! example "Beispiel"
-   In vielen Betrieben führt die fehlende Trennung dieser Ebenen zu Missverständnissen.  
-   Was als „einfacher Auftrag“ beginnt, endet in Rückfragen, Nacharbeiten und Reklamationen –  
-   nicht, weil jemand schlecht gearbeitet hat, sondern weil **nicht präzise gefragt** wurde.
+      In vielen Betrieben führt die fehlende Trennung dieser Ebenen zu Missverständnissen.  
+      Was als „einfacher Auftrag“ beginnt, endet in Rückfragen, Nacharbeiten und Reklamationen –  
+      nicht, weil jemand schlecht gearbeitet hat, sondern weil **nicht präzise gefragt** wurde.
 
 ---
 
@@ -55,8 +55,9 @@ Unsere Aufgabe ist die Übersetzung: **vom menschlichen Bedürfnis zur überprü
 4. **Prioritäten werden nicht festgelegt.**  
    → Alles scheint wichtig – bis das Budget kommt.
 
-!!! tip "Je strukturierter Sie fragen, desto klarer wird das Bild.  
-   Und je klarer das Bild, desto verlässlicher wird das Angebot."
+!!! tip 
+   Je strukturierter Sie fragen, desto klarer wird das Bild.  
+   Und je klarer das Bild, desto verlässlicher wird das Angebot.
 
 ---
 

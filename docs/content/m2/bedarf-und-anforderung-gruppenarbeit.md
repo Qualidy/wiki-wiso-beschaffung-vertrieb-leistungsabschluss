@@ -14,13 +14,30 @@ Das **Systemhaus JIKU IT-Solutions** betreut mehrere mittelständische Kunden.
 Einer davon – die **Kanzlei Dr. Bergmann & Partner** – wächst und möchte für eine neue Mitarbeiterin einen vollständigen Arbeitsplatz einrichten.  
 Die Anfrage kommt per E-Mail:
 
-> Guten Tag,
->
-> wir bekommen zum 1. des nächsten Monats eine neue Kollegin im Bereich Mandantenverwaltung.  
-> Sie soll direkt mitarbeiten können – also bitte einen kompletten Arbeitsplatz vorbereiten.
->
-> Freundliche Grüße  
-> **Claudia Bergmann**
+>Guten Tag,
+
+>wir bekommen zum 1. des nächsten Monats eine neue Kollegin im Bereich Mandantenverwaltung.
+Sie soll direkt mitarbeiten können – also bitte einen kompletten Arbeitsplatz vorbereiten.
+
+>Da sie teilweise im Homeoffice arbeiten wird, muss der Zugriff auf unsere Systeme auch von außen möglich sein.
+Bisher nutzen wir dafür ein VPN, aber das läuft nicht immer stabil.
+
+>Außerdem hatten wir vor einigen Wochen einen Serverausfall, bei dem Daten verloren gingen – eventuell sollte die Sicherungslösung überarbeitet werden.
+
+>Die Kollegin wird mit sensiblen Mandantendaten arbeiten (Steuerunterlagen, Rechnungen, Verträge), daher muss alles datenschutzkonform und sicher sein.
+
+>Ansonsten bitte so einrichten wie bei den anderen Arbeitsplätzen – wobei ich mir nicht sicher bin, was wir da zuletzt geändert hatten.
+
+>Wegen des Umzugs in den neuen Gebäudeteil ist noch nicht ganz klar, wo der Arbeitsplatz genau stehen wird, aber vermutlich im 2. OG, Raum 214.
+
+>Die neue Kollegin fängt am ersten Montag des Monats an, also bitte bis spätestens Ende nächster Woche alles fertigstellen, damit wir vorab testen können.
+
+>Wenn Sie Rückfragen haben, erreichen Sie mich vormittags telefonisch oder per E-Mail – am besten mit konkreten Punkten, damit ich sie intern abstimmen kann.
+
+>Vielen Dank und viele Grüße
+>Claudia Bergmann
+>Kanzlei Dr. Bergmann & Partner
+>Abteilung Mandantenverwaltung
 
 Das klingt einfach.  
 Doch der Fachinformatiker weiß: Hinter dieser Nachricht stecken viele **offene Fragen**.  
