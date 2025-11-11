@@ -1,0 +1,71 @@
+title: Stundensatzkalkulation – IT-Servicebetrieb
+question: |
+  Ein IT-Serviceunternehmen mit 6 Mitarbeitern möchte den optimalen **Stundensatz** berechnen,
+  um kostendeckend und mit Gewinn zu arbeiten.
+
+  **Gegeben:**
+  - Mitarbeiter: 6
+  - Jahresarbeitszeit pro Mitarbeiter: 2.080 Stunden
+  - Abzüge:
+    - Urlaubstage: 30
+    - Krankheitstage: 10
+    - Fortbildungstage: 5
+    - sonstige unproduktive Zeit: 10 % der verbleibenden Stunden
+  - **Gesamtkosten:**
+    - Personalkosten: 320.000 €
+    - Gemeinkosten (Miete, Versicherungen, Verwaltung etc.): 150.000 €
+    - Gewinnziel: 10 % auf Gesamtkosten
+
+  **Aufgaben:**
+  1. Berechne die **produktiven Stunden** aller Mitarbeiter zusammen.
+  2. Ermittele die **Gesamtkosten inkl. Gewinnziel**.
+  3. Berechne den **Selbstkostensatz pro Stunde (netto)**.
+  4. Berechne den **Verkaufspreis brutto (inkl. 19 % MwSt.)**.
+  5. Bewerte, ob der Preis marktgerecht ist, wenn ähnliche IT-Firmen zwischen **80 und 120 €** pro Stunde verlangen.
+
+#solution: |
+#  1. **Produktive Stunden:**
+#
+#     - Jahresarbeitszeit: 2.080 h
+#     - Abzug: (30 + 10 + 5) Tage × 8 h = 360 h
+#       → verbleiben: 1.720 h
+#     - Abzug unproduktive Zeit (10 %): 1.720 × 0,90 = 1.548 h
+#     - Produktive Stunden je Mitarbeiter: 1.548 h
+#     - Gesamt (6 MA): 1.548 × 6 = **9.288 h**
+#
+#  ---
+#
+#  2. **Gesamtkosten inkl. Gewinnziel:**
+#
+#     - Gesamtkosten: 320.000 € + 150.000 € = 470.000 €
+#     - Gewinnziel (10 %): 47.000 €
+#     - Summe = **517.000 €**
+#
+#  ---
+#
+#  3. **Selbstkostensatz pro Stunde:**
+#
+#     \[
+#     517.000 € ÷ 9.288 h = 55,67 €/h
+#     \]
+#     → **Selbstkostensatz netto: 55,67 €**
+#
+#  ---
+#
+#  4. **Verkaufspreis brutto:**
+#
+#     + Risikozuschlag (10 %) = 61,24 €
+#     + MwSt. (19 %) = 72,87 €
+#     → **Verkaufspreis brutto ≈ 73 €**
+#
+#  ---
+#
+#  5. **Bewertung:**
+#
+#     Mit 73 € brutto liegt der Satz **am unteren Rand des Marktbereichs**.
+#     Für einfache IT-Services ist das akzeptabel,
+#     für spezialisierte Beratung oder Notfall-Support sollte ein höherer Satz angesetzt werden (90–100 €).
+
+tip: |
+  Tipp: Vergiss nicht, dass nur produktive Stunden abrechenbar sind!
+  Ein realistischer Stundensatz sichert nicht nur Kosten, sondern auch Stabilität.

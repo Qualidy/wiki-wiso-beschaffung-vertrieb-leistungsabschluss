@@ -1,0 +1,38 @@
+title: Gewinnkalkulation (Differenzkalkulation)
+question: |
+  Ein IT-Dienstleister hat einem Kunden 12 Monitore geliefert.
+  Die Rechnung sieht so aus:
+
+  - Listenverkaufspreis netto je Monitor: 320,00 €
+  - Kundenrabatt: 8 %
+  - Kundenskonto: 2 %
+
+  Interne Daten:
+  - Bezugspreis je Monitor: 185,00 €
+  - Handlungskosten je Monitor: 70,00 €
+
+  Aufgaben:
+  1. Ermitteln Sie den tatsächlich erzielten **Nettoerlös je Monitor**.
+  2. Ermitteln Sie die **Selbstkosten je Monitor**.
+  3. Ermitteln Sie den **Gewinn je Monitor**.
+  4. Ermitteln Sie den **Gewinnzuschlag in %** auf die Selbstkosten.
+#solution: |
+#  1. Listenverkaufspreis netto: 320,00 €
+#     Kundenrabatt 8 %: 320,00 € × 0,08 = 25,60 €
+#     → Zielverkaufspreis: 320,00 € − 25,60 € = 294,40 €
+#     Kundenskonto 2 %: 294,40 € × 0,02 = 5,89 €
+#     → Nettoerlös: 294,40 € − 5,89 € = **288,51 €**
+#
+#  2. Selbstkosten = Bezugspreis + Handlungskosten
+#     = 185,00 € + 70,00 € = **255,00 €**
+#
+#  3. Gewinn = Erlös − Selbstkosten
+#     = 288,51 € − 255,00 € = **33,51 €**
+#
+#  4. Gewinnzuschlag in %:
+#     33,51 € × 100 ÷ 255,00 € ≈ **13,15 %**
+#
+#  Das Geschäft war also wirtschaftlich, aber nicht überragend.
+tip: |
+  Bei der Differenzkalkulation brauchst du kein komplettes Schema – du vergleichst nur:
+  „Was kam rein?“ vs. „Was hat es mich gekostet?“

@@ -1,0 +1,78 @@
+title: TCO- und ROI-Vergleich – Cloudlösung vs. On-Premise-Server
+question: |
+  Ein mittelständisches IT-Unternehmen steht vor einer Investitionsentscheidung:
+  Soll das firmeneigene Serversystem ersetzt werden – oder soll künftig auf eine Cloudlösung umgestellt werden?
+
+  Beide Varianten haben unterschiedliche Kostenstrukturen und wirtschaftliche Auswirkungen.
+
+  **Variante A – Neuer On-Premise-Server**
+  - Anschaffungskosten (Hardware, Installation): 90.000 €
+  - Laufende Kosten pro Jahr (Strom, Wartung, Updates): 15.000 €
+  - Einsparung durch höhere Effizienz: 20.000 € pro Jahr
+  - Nutzungsdauer: 4 Jahre
+
+  **Variante B – Cloudlösung**
+  - Einrichtungskosten (Migration, Schulung): 25.000 €
+  - Monatliche Cloudgebühr: 3.500 €
+  - Wegfall lokaler Wartungskosten: 10.000 € pro Jahr
+  - Einsparung durch geringeren Administrationsaufwand: 8.000 € pro Jahr
+  - Betrachtungszeitraum: 4 Jahre
+
+  **Aufgaben:**
+  1. Berechnen Sie für beide Varianten die **Total Cost of Ownership (TCO)** über 4 Jahre.
+  2. Berechnen Sie den **Return on Investment (ROI)** auf Basis der jeweiligen Rückflüsse (Einsparungen) im Verhältnis zu den Investitionskosten.
+  3. Bestimmen Sie für jede Variante die **Amortisationszeit (in Monaten)**.
+  4. Bewerten Sie, welche Lösung **wirtschaftlich sinnvoller** ist und warum – auch im Hinblick auf Flexibilität und Zukunftssicherheit.
+
+#solution: |
+#  **1. TCO-Berechnung**
+#
+#  Variante A – On-Premise:
+#  - Anschaffung: 90.000 €
+#  - Laufende Kosten: 4 × 15.000 € = 60.000 €
+#  → **TCO = 150.000 €**
+#
+#  Variante B – Cloud:
+#  - Einrichtung: 25.000 €
+#  - Cloudgebühren: 3.500 € × 48 Monate = 168.000 €
+#  → **TCO = 193.000 €**
+#
+#  ---
+#
+#  **2. ROI-Berechnung**
+#
+#  Rückflüsse = Einsparungen über 4 Jahre
+#
+#  Variante A:
+#  - 4 × 20.000 € = 80.000 €
+#  ROI = 80.000 ÷ 90.000 = **0,89**
+#
+#  Variante B:
+#  - Einsparungen (Wartung + Admin): (10.000 + 8.000) × 4 = 72.000 €
+#  - Investition: 25.000 €
+#  ROI = 72.000 ÷ 25.000 = **2,88**
+#
+#  ---
+#
+#  **3. Amortisationszeit**
+#
+#  Variante A:
+#  - Laufzeit 48 Monate ÷ 0,89 = **≈ 54 Monate** → keine volle Amortisation innerhalb der Nutzungsdauer
+#
+#  Variante B:
+#  - Laufzeit 48 Monate ÷ 2,88 = **≈ 17 Monate**
+#
+#  ---
+#
+#  **4. Bewertung**
+#
+#  - Wirtschaftlich **besser** ist die **Cloudlösung** (Variante B), da:
+#    - geringere Anfangsinvestition
+#    - schnellere Amortisation (~17 Monate)
+#    - flexiblere Skalierung und planbare monatliche Kosten
+#  - Variante A lohnt sich nur, wenn langfristig höhere Datenmengen oder absolute Datensouveränität gefordert sind.
+
+tip: |
+  - Der ROI zeigt die **Rentabilität** – je höher, desto besser.
+  - Der TCO zeigt die **Gesamtkosten** – je niedriger, desto besser.
+  - Eine gute Entscheidung findet das Gleichgewicht zwischen kurzfristiger Rendite und langfristiger Stabilität.

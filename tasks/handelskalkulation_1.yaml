@@ -1,0 +1,41 @@
+title: Kalkulationsstufen zuordnen
+question: |
+  Ordnen Sie die folgenden Begriffe der richtigen Kalkulationsstufe zu.
+
+  Begriffe:
+  - Kundenrabatt
+  - Liefererrabatt
+  - Bezugskosten
+  - Handlungskosten
+  - Gewinnaufschlag
+  - Mehrwertsteuer
+  - Liefererskonto
+  - Kundenskonto
+
+  Kalkulationsstufen:
+  1. Vom Listeneinkaufspreis zum Bezugspreis
+  2. Vom Bezugspreis zu den Selbstkosten
+  3. Vom Barverkaufspreis zum Listenverkaufspreis
+  4. Vom Listenverkaufspreis zum Rechnungsbetrag
+
+  Notieren Sie zu jeder Stufe die passenden Begriffe.
+#solution: |
+#  1. Vom Listeneinkaufspreis zum Bezugspreis:
+#     - Liefererrabatt
+#     - Liefererskonto
+#     - Bezugskosten
+#
+#  2. Vom Bezugspreis zu den Selbstkosten:
+#     - Handlungskosten
+#
+#  3. Vom Barverkaufspreis zum Listenverkaufspreis:
+#     - Gewinnaufschlag (kommt vor dem Barverkaufspreis, aber gehört in diese Zone)
+#     - Kundenskonto
+#     - Kundenrabatt
+#
+#  4. Vom Listenverkaufspreis zum Rechnungsbetrag:
+#     - Mehrwertsteuer
+tip: |
+  Merksatz:
+  Einkaufsteil: Lieferer-Nachlässe abziehen, Bezugskosten dazurechnen.
+  Verkaufsteil: eigene Kosten + Gewinn + Kunden-Nachlässe + MwSt.
