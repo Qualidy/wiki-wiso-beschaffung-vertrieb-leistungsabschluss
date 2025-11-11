@@ -19,12 +19,12 @@ Das bedeutet: Der Verkäufer schuldet die Lieferung, der Käufer die Bezahlung.
 
 **Typische IT-Beispiele:**
 - Verkauf von Servern, Monitoren, Lizenzen, Zubehör
-- Bestellung von Hardware über den Fachhandel
+  - Bestellung von Hardware über den Fachhandel
 
 **Wesentliche Merkmale:**
 - Eigentum geht bei Übergabe und Zahlung über
-- Gewährleistungspflicht bei Mängeln (§§ 433, 437 BGB)
-- Gefahrübergang bei Übergabe (§ 446 BGB)
+  - Gewährleistungspflicht bei Mängeln (§§ 433, 437 BGB)
+  - Gefahrübergang bei Übergabe (§ 446 BGB)
 
 !!! note "Praxis-Hinweis"
     Beim Kaufvertrag zählt die Sache – nicht die Funktion.  
@@ -83,8 +83,8 @@ Erst danach ist die Zahlung fällig – und Gewährleistungspflichten beginnen.
 
 Die meisten IT-Verträge kombinieren mehrere Rechtsarten:
 - **Hardwarelieferung (Kauf)**
-- **Installation und Konfiguration (Werk)**
-- **Wartung oder Betreuung (Dienst)**
+  - **Installation und Konfiguration (Werk)**
+  - **Wartung oder Betreuung (Dienst)**
 
 Solche Mischformen erfordern saubere Trennung in der Leistungsbeschreibung.  
 Rechnungsstellung, Abnahme und Haftung unterscheiden sich je nach Vertragsart.

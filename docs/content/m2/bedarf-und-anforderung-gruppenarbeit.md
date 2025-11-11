@@ -136,14 +136,15 @@ Diese Akte wird am Nachmittag vorgestellt.
 ## Hilfestellung und Leitfragen
 
 !!! question
-- Wer ist die eigentliche Nutzerin der neuen IT-Arbeitsumgebung?  
-- Welche bestehenden Systeme müssen integriert werden?  
-- Welche Sicherheits- und Datenschutzanforderungen gelten in einer Kanzlei?  
-- Wer nimmt den Arbeitsplatz später ab?  
-- Was könnte schiefgehen, wenn Informationen fehlen?
+    - Wer ist die eigentliche Nutzerin der neuen IT-Arbeitsumgebung?  
+    - Welche bestehenden Systeme müssen integriert werden?  
+    - Welche Sicherheits- und Datenschutzanforderungen gelten in einer Kanzlei?  
+    - Wer nimmt den Arbeitsplatz später ab?  
+    - Was könnte schiefgehen, wenn Informationen fehlen?
 
-!!! tip "Arbeiten Sie **nicht zu schnell in Lösungen hinein** – erst verstehen, dann entscheiden.  
-    Gute Analysen entstehen durch Fragen, nicht durch Annahmen."
+!!! tip 
+    Arbeiten Sie **nicht zu schnell in Lösungen hinein** – erst verstehen, dann entscheiden.  
+    Gute Analysen entstehen durch Fragen, nicht durch Annahmen.
 
 ---
 
@@ -192,7 +193,6 @@ Je genauer Sie heute sind, desto realistischer werden Ihre Berechnungen und Ents
 
 ---
 
-!!! success
-**Ergebnisziel:**  
-Jedes Team hat am Ende ein strukturiertes Dokument, das als  
-*Mini-Pflichtenheft* für den Arbeitsplatz „Kunde X“ verwendet werden kann.
+!!! success "Ergebnisziel"
+    Jedes Team hat am Ende ein strukturiertes Dokument, das als  
+    *Mini-Pflichtenheft* für den Arbeitsplatz „Kunde X“ verwendet werden kann.
