@@ -131,8 +131,8 @@ die **Neuanschaffung** ist langfristig zukunftssicherer.
 ## Reflexion
 
 - Welche Risiken übersieht man, wenn man nur den ROI betrachtet?
-- Warum kann eine teurere Lösung langfristig wirtschaftlicher sein?
-- Welche Rolle spielt die Lebensdauer in der Entscheidung?
+  - Warum kann eine teurere Lösung langfristig wirtschaftlicher sein?
+  - Welche Rolle spielt die Lebensdauer in der Entscheidung?
 
 ---
 

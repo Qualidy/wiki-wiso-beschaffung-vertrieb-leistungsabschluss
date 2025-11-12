@@ -61,17 +61,13 @@ Davon gehen ab:
 | **Summe Gesamtkosten** | = 230 000 € |
 | **Gewinnziel** | 10 % der Gesamtkosten | 23 000 € |
 
-\[
-\text{Gesamtkosten inkl. Gewinn} = 253 000 €
-\]
+\text{Gesamtkosten inkl. Gewinn} = 230\,000 € + 23\,000 € = 253\,000 €
 
 ---
 
 ### Produktive Jahresstunden
 
-\[
-\text{Produktive Stunden} = \text{Mitarbeiterzahl} \times \text{durchschnittlich abrechenbare Stunden/Jahr}
-\]
+\text{Produktive Stunden} = \text{Mitarbeiterzahl} \times \text{durchschnittlich abrechenbare Stunden pro Jahr}
 
 Beispiel:  
 5 Techniker × 1 512 h = **7 560 h**
@@ -80,20 +76,14 @@ Beispiel:
 
 ### Berechnung des Stundensatzes
 
-\[
-\text{Selbstkostensatz} = \frac{253 000 €}{7 560 h} = 33,47 €/h
-\]
+\text{Selbstkostensatz} = \frac{253\,000 €}{7\,560 \text{h}} = 33{,}47 €/h
 
 Um marktgerecht zu arbeiten, wird häufig ein **Risikozuschlag oder Gewinnaufschlag** ergänzt,  
 etwa 15 – 30 %, je nach Branche, Konkurrenz und Spezialisierung.
 
-\[
-\text{Verkaufspreis netto} = 33,47 € \times 1,25 = 41,84 €/h
-\]
+\text{Verkaufspreis netto} = 33{,}47 € \times 1{,}25 = 41{,}84 €/h
 
-\[
-\text{Verkaufspreis brutto} = 41,84 € \times 1,19 = \textbf{49,79 €/h}
-\]
+\text{Verkaufspreis brutto} = 41{,}84 € \times 1{,}19 = \textbf{49{,}79 €/h}
 
 ---
 
@@ -136,9 +126,7 @@ Ein kleines IT-Unternehmen mit 5 Mitarbeitern bietet vor-Ort-Service und Wartung
 | **Gesamtkosten** | **410 000** |
 | Produktive Stunden (5 × 1 480 h) | **7 400 h** |
 
-\[
-410 000 ÷ 7 400 = 55,41 €/h
-\]
+\frac{410\,000 €}{7\,400 \text{h}} = 55{,}41 €/h
 
 + Risikoaufschlag (10 %) = 60,95 €/h
 + Umsatzsteuer (19 %) = **72,53 €/h**
