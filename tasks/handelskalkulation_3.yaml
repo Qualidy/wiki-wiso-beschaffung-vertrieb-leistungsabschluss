@@ -18,28 +18,28 @@ question: |
   4. Welche maximale Einkaufskondition (Listeneinkaufspreis) dürfen Sie Ihrem Lieferanten gegenüber eingehen?
 
   Hinweis: Arbeiten Sie sauber rückwärts.
-#solution: |
-#  1. Brutto gegeben: 650,00 €
-#     → netto: 650,00 € ÷ 1,19 = **546,22 €**
-#
-#  2. Kundenrabatt 5 %:
-#     Zielverkaufspreis = 546,22 € × (1 − 0,05) = **518,91 €**
-#
-#  3. Gewinnaufschlag 10 % und Handlungskosten 45 % zusammen: 55 % Aufschlag auf Bezugspreis.
-#     Das bedeutet:
-#     Selbstkosten = 518,91 € ÷ 1,55 ≈ **334,14 €**
-#
-#  4. Bezugspreis = Selbstkosten − Handlungskostenanteil
-#     Handlungskostenanteil = 334,14 € × 0,45 = 150,36 €
-#     → Bezugspreis = 334,14 € − 150,36 € = **183,78 €**
-#
-#     Bezugspreis enthält bereits die Bezugskosten (6,00 €), also:
-#     Bareinkaufspreis = 183,78 € − 6,00 € = 177,78 €
-#
-#     Liefererrabatt 15 %:
-#     Listeneinkaufspreis = 177,78 € ÷ (1 − 0,15) = **209,15 €**
-#
-#     Ergebnis: Sie dürfen beim Lieferanten **maximal ca. 209 €** als Listeneinkaufspreis akzeptieren.
+solution: |
+  1. Brutto gegeben: 650,00 €
+     → netto: 650,00 € ÷ 1,19 = **546,22 €**
+
+  2. Kundenrabatt 5 %:
+     Zielverkaufspreis = 546,22 € × (1 − 0,05) = **518,91 €**
+
+  3. Gewinnaufschlag 10 % und Handlungskosten 45 % zusammen: 55 % Aufschlag auf Bezugspreis.
+     Das bedeutet:
+     Selbstkosten = 518,91 € ÷ 1,55 ≈ **334,14 €**
+
+  4. Bezugspreis = Selbstkosten − Handlungskostenanteil
+     Handlungskostenanteil = 334,14 € × 0,45 = 150,36 €
+     → Bezugspreis = 334,14 € − 150,36 € = **183,78 €**
+
+     Bezugspreis enthält bereits die Bezugskosten (6,00 €), also:
+     Bareinkaufspreis = 183,78 € − 6,00 € = 177,78 €
+
+     Liefererrabatt 15 %:
+     Listeneinkaufspreis = 177,78 € ÷ (1 − 0,15) = **209,15 €**
+
+     Ergebnis: Sie dürfen beim Lieferanten **maximal ca. 209 €** als Listeneinkaufspreis akzeptieren.
 tip: |
   Rückwärtskalkulation heißt: erst MwSt. weg, dann Kunden-Nachlässe, dann deine eigenen Aufschläge.
   Erst ganz am Ende kommst du beim Lieferanten an.

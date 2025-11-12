@@ -20,27 +20,27 @@ question: |
   4. Ermitteln Sie den Listenverkaufspreis **brutto** je PC.
 
   Rechnen Sie auf zwei Nachkommastellen.
-#solution: |
-#  1. Zieleinkaufspreis:
-#     850,00 € − 12 % = 748,00 €
-#     Liefererskonto 2 % von 748,00 € = 14,96 €
-#     → Bareinkaufspreis = 748,00 € − 14,96 € = 733,04 €
-#
-#     Bezugskosten pro PC: 120,00 € ÷ 15 = 8,00 €
-#     → Bezugspreis = 733,04 € + 8,00 € = **741,04 €**
-#
-#  2. Handlungskosten: 55 % von 741,04 € = 407,57 €
-#     → Selbstkosten = 741,04 € + 407,57 € = **1.148,61 €**
-#
-#  3. Gewinn 8 % von 1.148,61 € = 91,89 €
-#     → Barverkaufspreis = **1.240,50 €**
-#
-#  4. Kundenskonto 2 % und Kundenrabatt 5 %:
-#     Zielverkaufspreis = 1.240,50 € ÷ 0,98 = 1.265,82 €
-#     Listenverkaufspreis netto = 1.265,82 € ÷ 0,95 = 1.332,44 €
-#     Brutto (19 %) = 1.332,44 € × 1,19 = **1.585,60 €**
-#
-#  Ergebnis: Der PC müsste für ca. **1.585,60 € brutto** angeboten werden.
+solution: |
+  1. Zieleinkaufspreis:
+     850,00 € − 12 % = 748,00 €
+     Liefererskonto 2 % von 748,00 € = 14,96 €
+     → Bareinkaufspreis = 748,00 € − 14,96 € = 733,04 €
+
+     Bezugskosten pro PC: 120,00 € ÷ 15 = 8,00 €
+     → Bezugspreis = 733,04 € + 8,00 € = **741,04 €**
+
+  2. Handlungskosten: 55 % von 741,04 € = 407,57 €
+     → Selbstkosten = 741,04 € + 407,57 € = **1.148,61 €**
+
+  3. Gewinn 8 % von 1.148,61 € = 91,89 €
+     → Barverkaufspreis = **1.240,50 €**
+
+  4. Kundenskonto 2 % und Kundenrabatt 5 %:
+     Zielverkaufspreis = 1.240,50 € ÷ 0,98 = 1.265,82 €
+     Listenverkaufspreis netto = 1.265,82 € ÷ 0,95 = 1.332,44 €
+     Brutto (19 %) = 1.332,44 € × 1,19 = **1.585,60 €**
+
+  Ergebnis: Der PC müsste für ca. **1.585,60 € brutto** angeboten werden.
 tip: |
   Achte darauf, die Bezugskosten zuerst auf die Menge zu verteilen.
   Viele Fehler entstehen, weil mit dem Gesamtbetrag weitergerechnet wird.

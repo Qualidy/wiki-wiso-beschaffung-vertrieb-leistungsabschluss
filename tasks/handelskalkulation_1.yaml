@@ -19,22 +19,22 @@ question: |
   4. Vom Listenverkaufspreis zum Rechnungsbetrag
 
   Notieren Sie zu jeder Stufe die passenden Begriffe.
-#solution: |
-#  1. Vom Listeneinkaufspreis zum Bezugspreis:
-#     - Liefererrabatt
-#     - Liefererskonto
-#     - Bezugskosten
-#
-#  2. Vom Bezugspreis zu den Selbstkosten:
-#     - Handlungskosten
-#
-#  3. Vom Barverkaufspreis zum Listenverkaufspreis:
-#     - Gewinnaufschlag (kommt vor dem Barverkaufspreis, aber gehört in diese Zone)
-#     - Kundenskonto
-#     - Kundenrabatt
-#
-#  4. Vom Listenverkaufspreis zum Rechnungsbetrag:
-#     - Mehrwertsteuer
+solution: |
+  1. Vom Listeneinkaufspreis zum Bezugspreis:
+     - Liefererrabatt
+     - Liefererskonto
+     - Bezugskosten
+
+  2. Vom Bezugspreis zu den Selbstkosten:
+     - Handlungskosten
+
+  3. Vom Barverkaufspreis zum Listenverkaufspreis:
+     - Gewinnaufschlag (kommt vor dem Barverkaufspreis, aber gehört in diese Zone)
+     - Kundenskonto
+     - Kundenrabatt
+
+  4. Vom Listenverkaufspreis zum Rechnungsbetrag:
+     - Mehrwertsteuer
 tip: |
   Merksatz:
   Einkaufsteil: Lieferer-Nachlässe abziehen, Bezugskosten dazurechnen.

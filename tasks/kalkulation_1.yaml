@@ -20,11 +20,11 @@ question: |
   \]
 
   und runde auf zwei Nachkommastellen.
-#solution: |
-#  1. HKS = (8.300 × 100) ÷ 8.000 = **103,75 %**
-#  2. Selbstkosten = 300 € + (300 € × 1,0375) = **611,25 €**
-#  3. Barverkaufspreis = 611,25 € + 10 % = **672,38 € (netto)**
-#  4. Bruttoverkaufspreis = 672,38 € × 1,19 = **800,13 €**
+solution: |
+  1. HKS = (8.300 × 100) ÷ 8.000 = **103,75 %**
+  2. Selbstkosten = 300 € + (300 € × 1,0375) = **611,25 €**
+  3. Barverkaufspreis = 611,25 € + 10 % = **672,38 € (netto)**
+  4. Bruttoverkaufspreis = 672,38 € × 1,19 = **800,13 €**
 tip: |
   Achte darauf, dass der Gewinn **immer auf die Selbstkosten** aufgeschlagen wird.
   So bleibt die Kalkulation nachvollziehbar und marktorientiert.

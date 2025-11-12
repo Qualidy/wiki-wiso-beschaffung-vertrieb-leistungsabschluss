@@ -1,0 +1,72 @@
+title: Bezugspreis berechnen – Quantitativer Angebotsvergleich
+question: |
+  Ein IT-Systemhaus möchte 20 neue Notebooks beschaffen.  
+  Es liegen zwei konkrete Angebote vor. Deine Aufgabe ist es, herauszufinden,  
+  **welches Angebot wirtschaftlich günstiger ist** – unter Berücksichtigung von Rabatt, Skonto und Bezugskosten.
+
+  ---
+  ### Angaben
+
+  | Anbieter | Listenpreis je Stück | Mengenrabatt | Skonto | Bezugskosten |
+  |-----------|----------------------|---------------|---------|---------------|
+  | **PC Sander GmbH** | 350,00 € | 5 % | 3 % | 20,00 € |
+  | **PC-Markt AG** | 400,00 € | 20 % | 2 % | 50,00 € |
+
+  ---
+  ### Aufgabenstellung
+
+  1. Berechne für **beide Anbieter** den **Bezugspreis je Notebook** nach folgender Formel:
+     \[
+     \text{Bezugspreis} = \text{Listeneinkaufspreis} - \text{Rabatt} - \text{Skonto} + \text{Bezugskosten}
+     \]
+  2. Stelle deine Berechnung **tabellarisch** dar.  
+  3. Runde alle Ergebnisse auf **zwei Nachkommastellen**.  
+  4. Entscheide, welcher Anbieter das **wirtschaftlichere Angebot** abgibt.  
+  5. Berechne zusätzlich die **Gesamtersparnis bei 20 Geräten**.
+
+  > **Hinweis:**  
+  > Umsatzsteuer (MwSt.) wird **nicht berücksichtigt**, da sie kein Kostenbestandteil ist.
+
+  ---
+  ### Zusatzfrage
+
+  Warum ist es wichtig, **nicht nur den Listenpreis**, sondern auch Rabatte, Skonti und Bezugskosten zu berücksichtigen?
+
+#solution: |
+#  **PC Sander GmbH**
+#
+#  Listeneinkaufspreis: 350,00 €
+#  - 5 % Rabatt = 17,50 €
+#  → 332,50 €
+#  - 3 % Skonto = 9,98 €
+#  → 322,52 €
+#  + 20,00 € Bezugskosten
+#  **= 342,52 € Bezugspreis pro Stück**
+#
+#  **PC-Markt AG**
+#
+#  Listeneinkaufspreis: 400,00 €
+#  - 20 % Rabatt = 80,00 €
+#  → 320,00 €
+#  - 2 % Skonto = 6,40 €
+#  → 313,60 €
+#  + 50,00 € Bezugskosten
+#  **= 363,60 € Bezugspreis pro Stück**
+#
+#  **3Entscheidung:**
+#  → Günstigerer Anbieter: **PC Sander GmbH (342,52 €)**
+#  → Ersparnis pro Gerät: 21,08 €
+#  → Gesamtersparnis (20 Geräte): **421,60 €**
+#
+#  ---
+#  **Begründung:**
+#  Der scheinbar teurere Listenpreis von PC-Markt AG relativiert sich nicht ausreichend durch Rabatte.
+#  Die hohen Bezugskosten machen das Angebot insgesamt teurer.
+#  → **PC Sander GmbH** bietet das wirtschaftlich bessere Gesamtpaket.
+
+tip: |
+  Tipp:
+  - Skonto wird **immer nach dem Rabatt** berechnet – nie direkt vom Listenpreis.  
+  - Bezugskosten werden **addiert**, nicht abgezogen.  
+  - Umsatzsteuer spielt hier keine Rolle – sie ist **durchlaufender Posten**.  
+  - Rechne immer pro Stück, um den Vergleich fair zu halten.

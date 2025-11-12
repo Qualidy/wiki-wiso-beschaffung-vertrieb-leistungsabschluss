@@ -20,13 +20,13 @@ question: |
   *Hinweis:*  
   - MwSt. = 19 %  
   - Kalkuliere rückwärts von oben nach unten (vom Listenverkaufspreis bis zum Einkaufspreis).
-#solution: |
-#  1. Listenverkaufspreis netto = 1.190 € ÷ 1,19 = **1.000 €**
-#  2. Zielverkaufspreis = 1.000 € × (1 - 0,10 - 0,03) = **870 €**
-#  3. Selbstkosten = 870 € ÷ (1 + 0,12 + 0,50) ≈ **522,73 €**
-#  4. Listeneinkaufspreis = (522,73 € - 8 €) ÷ (1 - 0,15 - 0,03) ≈ **600,84 €**
-#
-#  Der Händler darf also höchstens **ca. 601 €** pro Gerät einkaufen, um seine geplante Rendite zu halten.
+solution: |
+  1. Listenverkaufspreis netto = 1.190 € ÷ 1,19 = **1.000 €**
+  2. Zielverkaufspreis = 1.000 € × (1 - 0,10 - 0,03) = **870 €**
+  3. Selbstkosten = 870 € ÷ (1 + 0,12 + 0,50) ≈ **522,73 €**
+  4. Listeneinkaufspreis = (522,73 € - 8 €) ÷ (1 - 0,15 - 0,03) ≈ **600,84 €**
+
+  Der Händler darf also höchstens **ca. 601 €** pro Gerät einkaufen, um seine geplante Rendite zu halten.
 tip: |
   Die Rückwärtskalkulation wird verwendet, wenn der Verkaufspreis bereits vorgegeben ist
   und man prüfen muss, ob der Einkaufspreis wirtschaftlich vertretbar ist.

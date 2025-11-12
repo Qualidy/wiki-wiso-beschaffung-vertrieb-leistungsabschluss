@@ -17,10 +17,10 @@ tip: |
   Denken Sie daran: Fachsprache funktioniert nur dort, wo sie verstanden wird.  
   Passen Sie Ihren Stil also an den Wissensstand und die Rolle Ihres Gegenübers an.
 
-#solution: |
-#  **Lösung:**
-#
-#  1 → Geschäftskunde (B2B) – Kommunikation sachlich, strukturiert, mit Leistungsbeschreibung.
-#  2 → Privatkunde (B2C) – einfach, freundlich, lösungsorientiert.
-#  3 → Öffentlicher Auftraggeber – formal, präzise, mit Nachweisen.
-#  4 → Interner Kunde – kollegial, aber verbindlich.
+solution: |
+  **Lösung:**
+
+  1 → Geschäftskunde (B2B) – Kommunikation sachlich, strukturiert, mit Leistungsbeschreibung.
+  2 → Privatkunde (B2C) – einfach, freundlich, lösungsorientiert.
+  3 → Öffentlicher Auftraggeber – formal, präzise, mit Nachweisen.
+  4 → Interner Kunde – kollegial, aber verbindlich.

@@ -1,0 +1,89 @@
+title: Qualitativer Angebotsvergleich – Nutzwertanalyse durchführen
+question: |
+  Nach dem quantitativen Angebotsvergleich sollen nun **qualitative Kriterien** in die Entscheidung einfließen.
+
+  Das IT-Systemhaus vergleicht weiterhin die beiden Anbieter:
+  - **PC Sander GmbH**
+  - **PC-Markt AG**
+
+  Beide liefern das gleiche Produkt, unterscheiden sich aber in Service, Beratung und Zuverlässigkeit.  
+  Es soll ermittelt werden, welcher Anbieter unter **wirtschaftlichen und qualitativen Gesichtspunkten** das bessere Angebot abgibt.
+
+  ---
+  ### Ausgangsdaten (aus der vorigen Aufgabe)
+
+  | Anbieter | Bezugspreis je Stück |
+  |-----------|----------------------|
+  | **PC Sander GmbH** | 342,52 € |
+  | **PC-Markt AG** | 363,60 € |
+
+  ---
+  ### Aufgabenstellung
+
+  1. Führe eine **Nutzwertanalyse** mit den folgenden Kriterien und Gewichtungen durch.  
+     Verwende die Bewertungsskala:  
+     **1 = sehr gut, 2 = gut, 3 = befriedigend, 4 = ausreichend, 5 = mangelhaft**
+
+     | Kriterium | Gewichtung | PC Sander GmbH | PC-Markt AG |
+     |------------|-------------|----------------|--------------|
+     | Preis | 40 % | 1 | 2 |
+     | Service & Support | 20 % | 2 | 1 |
+     | Lieferzuverlässigkeit | 20 % | 2 | 2 |
+     | Kompetenz & Beratung | 10 % | 1 | 3 |
+     | Bisherige Zusammenarbeit | 10 % | 1 | 3 |
+
+  2. Berechne den **gewichteten Nutzwert** für jeden Anbieter nach folgender Formel:
+     \[
+     \text{Gesamtnutzwert} = \sum (\text{Bewertung} \times \text{Gewichtung})
+     \]
+
+     > **Tipp:** Verwandle Prozent in Dezimalwerte (z. B. 40 % → 0,4).
+
+  3. Stelle deine Berechnungen übersichtlich in einer Tabelle dar.  
+  4. Begründe schriftlich, welcher Anbieter **das wirtschaftlichere und qualitativ bessere Angebot** bietet.  
+  5. Diskutiere anschließend, wie sich das Ergebnis verändern würde,  
+     wenn der Preis nur zu 20 % gewichtet wäre.
+
+#solution: |
+#  **Schritt 1:** Gewichtung in Dezimalwerte umwandeln
+#  40 % = 0,4 | 20 % = 0,2 | 10 % = 0,1
+#
+#  **Schritt 2:** Berechnung der gewichteten Nutzwerte
+#
+#  | Kriterium | Gewichtung | PC Sander GmbH | PC-Markt AG |
+#  |------------|-------------|----------------|--------------|
+#  | Preis | 0,4 | 1 × 0,4 = 0,40 | 2 × 0,4 = 0,80 |
+#  | Service & Support | 0,2 | 2 × 0,2 = 0,40 | 1 × 0,2 = 0,20 |
+#  | Lieferzuverlässigkeit | 0,2 | 2 × 0,2 = 0,40 | 2 × 0,2 = 0,40 |
+#  | Kompetenz & Beratung | 0,1 | 1 × 0,1 = 0,10 | 3 × 0,1 = 0,30 |
+#  | Bisherige Zusammenarbeit | 0,1 | 1 × 0,1 = 0,10 | 3 × 0,1 = 0,30 |
+#  | **Gesamtnutzwert** | **1,0** | **1,40** | **2,00** |
+#
+#  **Schritt 3:** Interpretation
+#  - **Je niedriger der Gesamtnutzwert, desto besser.**
+#  - PC Sander GmbH erzielt mit **1,40 Punkten** das beste Ergebnis.
+#  - PC-Markt AG erreicht **2,00 Punkte** und liegt somit deutlich dahinter.
+#
+#  **Schritt 4:** Begründung
+#  Der Preisvorteil und die bessere Zusammenarbeit überwiegen bei PC Sander GmbH.
+#  Trotz des guten Service bei PC-Markt AG bietet Sander das insgesamt wirtschaftlichere Gesamtpaket.
+#
+#  **Ergebnis:**
+#  → **Empfohlener Anbieter: PC Sander GmbH**
+#
+#  **Zusatzbetrachtung:**
+#  Wenn der Preis nur mit 20 % statt 40 % gewichtet würde,
+#  könnten Service- und Beratungsleistungen stärker ins Gewicht fallen.
+#  In diesem Fall würde PC-Markt AG näher an das Ergebnis von PC Sander heranrücken,
+#  aber vermutlich nicht vorbeiziehen.
+
+tip: |
+  Tipp:
+  - Die Nutzwertanalyse ist kein Rechenwunder, sondern ein **Entscheidungshilfetool**.  
+  - Wichtig ist, dass **Gewichtungen und Bewertungen begründet** werden.  
+  - Je transparenter du bewertest, desto nachvollziehbarer wird deine Entscheidung.  
+  - In Excel kannst du mit der Formel  
+    ```excel
+    =SUMMENPRODUKT(Bewertung;Gewichtung)
+    ```  
+    automatisch den Gesamtnutzwert berechnen.

@@ -1,0 +1,56 @@
+title: Qualitativer Angebotsvergleich – Nutzwertanalyse
+question: |
+  Im Anschluss an den Preisvergleich aus Aufgabe 1 soll nun auch die **Qualität der Anbieter** bewertet werden.  
+  Ziel ist es, zu prüfen, ob eventuell ein teurerer Anbieter aufgrund besserer Leistungen den höheren Preis rechtfertigt.
+
+  ### Situation:
+  Das IT-Systemhaus aus Aufgabe 1 möchte den besten Lieferanten für seine 20 Notebooks auswählen.  
+  Neben dem Preis sollen auch qualitative Faktoren in die Entscheidung einfließen.
+
+  ### Vorgehen:
+  1. Bewerte beide Anbieter anhand der folgenden Kriterien mit Schulnoten von **1 (sehr gut)** bis **5 (schlecht)**.  
+  2. Multipliziere die Note mit der Gewichtung (in %) → so erhältst du den **gewichteten Nutzwert**.  
+  3. Addiere alle gewichteten Werte → der Anbieter mit dem **niedrigsten Gesamtergebnis** ist der wirtschaftlichste.  
+
+  ### Kriterien und Gewichtung:
+  | Kriterium | Gewichtung | PC Sander GmbH | PC-Markt AG |
+  |------------|-------------|----------------|--------------|
+  | Preis | 40 % | 1 | 2 |
+  | Service & Support | 20 % | 2 | 1 |
+  | Lieferzuverlässigkeit | 20 % | 2 | 2 |
+  | Kompetenz & Beratung | 10 % | 1 | 3 |
+  | Bisherige Zusammenarbeit | 10 % | 1 | 3 |
+
+  ### Aufgabenstellung:
+  1. Berechne für jeden Anbieter den **gewichteten Nutzwert** (Note × Gewichtung).  
+  2. Ermittle das **Gesamtergebnis** und bewerte, welcher Anbieter den höheren Nutzwert besitzt.  
+  3. Begründe die Entscheidung aus Sicht eines IT-Beschaffers.
+
+#solution: |
+#  **1. Berechnung der gewichteten Nutzwerte**
+#
+#  | Kriterium | Gewichtung | PC Sander GmbH | PC-Markt AG |
+#  |------------|-------------|----------------|--------------|
+#  | Preis | 40 % | 1 × 0,4 = 0,40 | 2 × 0,4 = 0,80 |
+#  | Service & Support | 20 % | 2 × 0,2 = 0,40 | 1 × 0,2 = 0,20 |
+#  | Lieferzuverlässigkeit | 20 % | 2 × 0,2 = 0,40 | 2 × 0,2 = 0,40 |
+#  | Kompetenz & Beratung | 10 % | 1 × 0,1 = 0,10 | 3 × 0,1 = 0,30 |
+#  | Bisherige Zusammenarbeit | 10 % | 1 × 0,1 = 0,10 | 3 × 0,1 = 0,30 |
+#  | **Gesamtnutzwert** | **100 %** | **1,40** | **2,00** |
+#
+#  **2. Entscheidung**
+#
+#  → Der Anbieter **PC Sander GmbH** erzielt mit einem Gesamtnutzwert von 1,40 das bessere Ergebnis.
+#  Trotz des minimal höheren Preises bietet er **höhere Kompetenz, gute Servicequalität**
+#  und eine **vertrauensvolle Zusammenarbeit**, was langfristig wirtschaftlicher ist.
+#
+#  **3. Bewertung**
+#  - Reine Preisentscheidungen führen oft zu Fehlkäufen (z. B. Supportprobleme, Lieferverzögerungen).
+#  - Die Nutzwertanalyse hilft, auch **nicht-monetäre Kriterien** objektiv einzubeziehen.
+#  - Sie ist besonders relevant in der IT-Branche, wo Zuverlässigkeit und Support entscheidend sind.
+
+tip: |
+  Tipp:
+  - Eine **gewichtete Nutzwertanalyse** ersetzt keinen Preisvergleich, sondern ergänzt ihn.  
+  - Bewerte fair und realistisch – die Gewichtung muss zur Unternehmensstrategie passen.  
+  - In Projekten mit vielen Anbietern bietet sich eine Skala von **1 bis 10** statt 1 bis 5 an, um feiner zu unterscheiden.
