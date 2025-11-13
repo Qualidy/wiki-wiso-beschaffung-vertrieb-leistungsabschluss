@@ -28,9 +28,10 @@ nav:
       - Quantitativer Angebotsvergleich – Bezugspreisrechnungen: content/m4/quantitativer_angebotsvergleich.md
       - Qualitative Angebotsvergleiche – Nutzwertanalyse: content/m4/nutzwertanalyse.md
 
-#  - Lieferung, Abnahme & Kontrolle:
-#      - Lieferung, Abnahme & Kontrolle: content/m5/lieferung_und_uebergabe.md
-#      - Arbeitssicherheit, IT-Schutz & Umweltschutz: content/m5/arbeitssicherheit_und_umweltschutz.md
+  - Lieferung, Abnahme & Kontrolle:
+      - Lieferung, Abnahme & Kontrolle: content/m5/lieferung_und_uebergabe.md
+      - Arbeitssicherheit, IT-Schutz & Umweltschutz: content/m5/arbeitssicherheit_und_umweltschutz.md
+      - Kundengespräch bei Mängeln & Kundenzufriedenheit nach Projektabschluss: content/m5/kundenzufriedenheit.md
 theme:
   name: material
   palette:
