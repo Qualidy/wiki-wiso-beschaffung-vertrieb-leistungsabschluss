@@ -50,9 +50,10 @@ Zwei Anbieter machen ein Angebot:
 Der Rabatt wird **vom Listenpreis** abgezogen.
 
 **Beispiel PC Sander:**
-\[
-350,00 € - 5 % = 350 € × 0,95 = 332,50 €
-\]
+
+332{,}50\,\text{€} - 3\%
+= 332{,}50\,\text{€} \times 0{,}97
+= 322{,}52\,\text{€}
 
 ### 2Skonto abziehen
 Das Skonto wird **vom bereits rabattierten Preis** abgezogen.
@@ -62,9 +63,8 @@ Das Skonto wird **vom bereits rabattierten Preis** abgezogen.
 \]
 
 ### Bezugskosten hinzufügen
-\[
-322,52 € + 20 € = 342,52 €
-\]
+322{,}52\,\text{€} + 20\,\text{€}
+= 342{,}52\,\text{€}
 
 **Bezugspreis PC Sander: 342,52 €**
 
