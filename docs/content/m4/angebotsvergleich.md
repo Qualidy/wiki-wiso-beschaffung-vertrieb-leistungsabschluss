@@ -125,7 +125,7 @@ Ziel ist es, den **günstigsten Einstandspreis (Bezugspreis)** zu berechnen.
 !!! example "Beispiel"
     | Anbieter | Listenpreis | Rabatt | Skonto | Bezugskosten | Bezugspreis |
     |-----------|-------------|--------|--------|---------------|--------------|
-    | PC Sander GmbH | 350 € | 5 % | 3 % | 20 € | 350 × 0,95 × 0,97 + 20 = **347,78 €** |
+    | PC Sander GmbH | 350 € | 5 % | 3 % | 20 € | 350 × 0,95 × 0,97 + 20 = **342,53 €** |
     | PC-Markt AG | 400 € | 20 % | 2 % | 50 € | 400 × 0,80 × 0,98 + 50 = **363,60 €** |
 
     Der günstigere Bezugspreis liegt bei **PC Sander GmbH (347,78 €)**.
