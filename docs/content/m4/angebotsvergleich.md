@@ -154,8 +154,8 @@ Diese qualitative Bewertung nennt man **Nutzwertanalyse.**
     | Kompetenz | 20 % | 5 | 4 |
     | Lieferung & Zuverlässigkeit | 20 % | 4 | 4 |
     | Service & Support | 20 % | 4 | 5 |
-    | **Gesamtnutzwert** | 100 % | **4,4** | **3,9** |
     | Preis | 40 % | 5 | 3 |
+    | **Gesamtnutzwert** | 100 % | **4,4** | **3,9** |
 
     Obwohl Anbieter B beim Preis schlechter abschneidet,  
     erzielt Anbieter A den **höheren Gesamtnutzwert** und ist somit die bessere Wahl.
