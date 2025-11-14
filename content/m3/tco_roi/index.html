@@ -1,0 +1,1555 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../kalkulation_stundensatz/">
+      
+      
+        <link rel="next" href="../../m4/angebotsvergleich/">
+      
+      
+      <link rel="icon" href="../../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+    
+    
+      
+        <title>Wirtschaftlichkeit von IT-Investitionen – TCO & ROI - WISO Beschaffung Vertrieb Leistungsabschluss</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.7e37652d.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../stylesheets/logo.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/grid.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/video_admonition.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/python_tutor_admonition.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/mermaid.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="amber" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#wirtschaftlichkeit-von-it-investitionen-tco-roi" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="WISO Beschaffung Vertrieb Leistungsabschluss" class="md-header__button md-logo" aria-label="WISO Beschaffung Vertrieb Leistungsabschluss" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            WISO Beschaffung Vertrieb Leistungsabschluss
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Wirtschaftlichkeit von IT-Investitionen – TCO & ROI
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="WISO Beschaffung Vertrieb Leistungsabschluss" class="md-nav__button md-logo" aria-label="WISO Beschaffung Vertrieb Leistungsabschluss" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    WISO Beschaffung Vertrieb Leistungsabschluss
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Übersicht
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../einleitung/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wochenüberblick & Einführung
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Grundlagen
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Grundlagen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m1/kundenarten/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kundenarten
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Vertragsarten
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            Vertragsarten
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m1/vertragsarten/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Vertragsarten in der IT – Verantwortung, Ergebnis und Erwartung
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m1/vertragsabschluss/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Vertragsabschluss
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m1/vertragsstoerungen_anfechtung/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Vertragsstörungen & Anfechtung
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m1/gespraechsphasen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gesprächsphasen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Bedarf & Anforderungen
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Bedarf & Anforderungen
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m2/bedarf-und-anforderung/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Bedarf und Anforderung
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m2/bedarf-und-anforderung-gruppenarbeit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Gruppenarbeit
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m2/iperka_reflexion/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Reflexion & IPERKA-Transfer
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Kalkulation & Wirtschaftlichkeit
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Kalkulation & Wirtschaftlichkeit
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kalkulation_grundlagen/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kalkulation in IT-Projekten – Grundlagen, Stundensätze und Rendite
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kalkulation_handelskalkulation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Handelskalkulation – Vom Einkauf bis zum Verkaufspreis
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../kalkulation_stundensatz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Stundensatzkalkulation in IT-Dienstleistungen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Wirtschaftlichkeit von IT-Investitionen – TCO & ROI
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Wirtschaftlichkeit von IT-Investitionen – TCO & ROI
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#total-cost-of-ownership-tco" class="md-nav__link">
+    <span class="md-ellipsis">
+      Total Cost of Ownership (TCO)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Total Cost of Ownership (TCO)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ziel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ziel:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#typische-bestandteile" class="md-nav__link">
+    <span class="md-ellipsis">
+      Typische Bestandteile:
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#beispiel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Beispiel:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#return-on-investment-roi" class="md-nav__link">
+    <span class="md-ellipsis">
+      Return on Investment (ROI)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Return on Investment (ROI)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#beispielrechnung" class="md-nav__link">
+    <span class="md-ellipsis">
+      Beispielrechnung:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#entscheidung-zwischen-zwei-alternativen" class="md-nav__link">
+    <span class="md-ellipsis">
+      Entscheidung zwischen zwei Alternativen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formel-uberblick" class="md-nav__link">
+    <span class="md-ellipsis">
+      Formel-Überblick
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#beispielvergleich-update-vs-neuanschaffung" class="md-nav__link">
+    <span class="md-ellipsis">
+      Beispielvergleich: Update vs. Neuanschaffung
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#reflexion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Reflexion
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ubung" class="md-nav__link">
+    <span class="md-ellipsis">
+      Übung
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Angebotsvergleiche
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Angebotsvergleiche
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m4/angebotsvergleich/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Angebotsvergleiche bei Beschaffungsmaßnahmen durchführen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m4/quantitativer_angebotsvergleich/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Quantitativer Angebotsvergleich – Bezugspreisrechnungen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m4/nutzwertanalyse/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Qualitative Angebotsvergleiche – Nutzwertanalyse
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Lieferung, Abnahme & Kontrolle
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Lieferung, Abnahme & Kontrolle
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m5/lieferung_und_uebergabe/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Lieferung, Abnahme & Kontrolle
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m5/arbeitssicherheit_und_umweltschutz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Arbeitssicherheit, IT-Schutz & Umweltschutz
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../m5/kundenzufriedenheit/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Kundengespräch bei Mängeln & Kundenzufriedenheit nach Projektabschluss
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="wirtschaftlichkeit-von-it-investitionen-tco-roi"><strong>Wirtschaftlichkeit von IT-Investitionen – TCO &amp; ROI</strong><a class="headerlink" href="#wirtschaftlichkeit-von-it-investitionen-tco-roi" title="Permanent link">&para;</a></h1>
+<hr />
+<p>Eine Anschaffung ist nicht automatisch eine Investition.<br />
+Und nicht jede Investition lohnt sich – zumindest nicht sofort.<br />
+Im IT-Bereich müssen wir Entscheidungen treffen,<br />
+die Jahre später noch Kosten oder Einsparungen verursachen können.</p>
+<p>Deshalb betrachtet man Investitionen <strong>nicht nur nach dem Kaufpreis</strong>,<br />
+sondern nach <strong>allen entstehenden und zurückfließenden Werten</strong> –<br />
+mit Hilfe von TCO und ROI.</p>
+<div class="admonition quote">
+<p class="admonition-title">Quote</p>
+<p>„Was heute günstig wirkt, kann morgen teuer werden –<br />
+weil Kosten selten nur einmal entstehen.“</p>
+</div>
+<hr />
+<h2 id="total-cost-of-ownership-tco">Total Cost of Ownership (TCO)<a class="headerlink" href="#total-cost-of-ownership-tco" title="Permanent link">&para;</a></h2>
+<p>Die <strong>Total Cost of Ownership</strong> („Gesamtkosten des Besitzes“)<br />
+umfasst <strong>alle direkten und indirekten Kosten</strong>,<br />
+die während der gesamten Nutzungsdauer einer Investition entstehen.</p>
+<h3 id="ziel">Ziel:<a class="headerlink" href="#ziel" title="Permanent link">&para;</a></h3>
+<p>Nicht nur den Kaufpreis betrachten,<br />
+sondern auch Folgekosten wie Wartung, Schulung, Energie oder Ausfallzeiten.</p>
+<h3 id="typische-bestandteile">Typische Bestandteile:<a class="headerlink" href="#typische-bestandteile" title="Permanent link">&para;</a></h3>
+<table>
+<thead>
+<tr>
+<th><strong>Kostenart</strong></th>
+<th><strong>Beispiele</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Direkte Kosten</strong></td>
+<td>Anschaffungspreis, Installationskosten, Schulung, Wartung, Lizenzen</td>
+</tr>
+<tr>
+<td><strong>Indirekte Kosten</strong></td>
+<td>Energie, Ausfallzeiten, Supportaufwand, Ersatzteile, Schulungskosten bei Personalwechsel</td>
+</tr>
+<tr>
+<td><strong>Versteckte Kosten</strong></td>
+<td>Organisationsaufwand, Einarbeitung, Systemausfälle, Datenmigration</td>
+</tr>
+</tbody>
+</table>
+<h3 id="beispiel">Beispiel:<a class="headerlink" href="#beispiel" title="Permanent link">&para;</a></h3>
+<p>Ein IT-Systemhaus prüft zwei Optionen für seine Warenwirtschaft:</p>
+<table>
+<thead>
+<tr>
+<th>Variante</th>
+<th>Anschaffungskosten</th>
+<th>Direkte Zusatzkosten</th>
+<th>Indirekte Kosten</th>
+<th><strong>TCO gesamt</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Update</strong></td>
+<td>12.000 €</td>
+<td>5.000 €</td>
+<td>4.000 €</td>
+<td><strong>21.000 €</strong></td>
+</tr>
+<tr>
+<td><strong>Neue Software</strong></td>
+<td>90.000 €</td>
+<td>18.000 €</td>
+<td>32.000 €</td>
+<td><strong>140.000 €</strong></td>
+</tr>
+</tbody>
+</table>
+<p>→ <strong>TCO-Vergleich:</strong> Update &lt; Neuanschaffung → das Update ist wirtschaftlicher.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+</div>
+<p>Der TCO hilft, die <strong>wahre Kostenseite</strong> einer Entscheidung zu erkennen –<br />
+nicht nur, was auf der Rechnung steht, sondern was langfristig gezahlt wird.</p>
+<hr />
+<h2 id="return-on-investment-roi">Return on Investment (ROI)<a class="headerlink" href="#return-on-investment-roi" title="Permanent link">&para;</a></h2>
+<p>Der <strong>Return on Investment (ROI)</strong> zeigt,<br />
+wie schnell sich eine Investition durch Einsparungen oder Gewinne <strong>amortisiert</strong>.</p>
+<div class="arithmatex">\[
+ROI = \frac{\text{Rückflüsse}}{\text{Investitionskosten}}
+\quad \text{oder} \quad
+ROI = \frac{\text{Ertrag} - \text{Kosten}}{\text{Kosten}}
+\]</div>
+<p>Wenn der ROI &gt; 1 ist, bringt die Investition mehr Ertrag,<br />
+als sie gekostet hat – sie hat sich also gelohnt.<br />
+Ein ROI von 2 bedeutet: doppelte Rückflüsse gegenüber den Kosten.</p>
+<hr />
+<h3 id="beispielrechnung">Beispielrechnung:<a class="headerlink" href="#beispielrechnung" title="Permanent link">&para;</a></h3>
+<p>Ein Unternehmen kauft ein neues Archivsystem für 100.000 €.<br />
+Durch geringere Wartung und Arbeitszeitersparnis spart es jährlich 67.000 €.<br />
+Die Nutzungsdauer beträgt 3 Jahre.</p>
+<div class="arithmatex">\[
+ROI = \frac{67.000 € \times 3}{100.000 €} = 2,01
+\]</div>
+<div class="arithmatex">\[
+\text{Amortisation} = \frac{36 \text{ Monate}}{2,01} = 17,9 \text{ Monate}
+\]</div>
+<p>→ Das System hat sich <strong>nach etwa 1,5 Jahren bezahlt gemacht.</strong></p>
+<hr />
+<h2 id="entscheidung-zwischen-zwei-alternativen">Entscheidung zwischen zwei Alternativen<a class="headerlink" href="#entscheidung-zwischen-zwei-alternativen" title="Permanent link">&para;</a></h2>
+<p>Bei IT-Investitionen muss man häufig zwischen <strong>Update</strong> und <strong>Neuanschaffung</strong> entscheiden.<br />
+Hier gilt: Je höher die TCO der neuen Lösung und je länger die Amortisationszeit,<br />
+desto sorgfältiger sollte die Entscheidung getroffen werden.</p>
+<table>
+<thead>
+<tr>
+<th>Kriterium</th>
+<th>Update</th>
+<th>Neuanschaffung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Investitionskosten</td>
+<td>gering</td>
+<td>hoch</td>
+</tr>
+<tr>
+<td>Laufende Kosten</td>
+<td>moderat</td>
+<td>anfangs hoch, später evtl. geringer</td>
+</tr>
+<tr>
+<td>Zukunftssicherheit</td>
+<td>begrenzt</td>
+<td>hoch</td>
+</tr>
+<tr>
+<td>ROI</td>
+<td>kurzfristig</td>
+<td>langfristig</td>
+</tr>
+<tr>
+<td>Risiko</td>
+<td>gering</td>
+<td>höher (Umstellung, Schulung)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="formel-uberblick">Formel-Überblick<a class="headerlink" href="#formel-uberblick" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Kennzahl</th>
+<th>Formel</th>
+<th>Bedeutung</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>TCO</strong></td>
+<td>Anschaffung + alle direkten + indirekten + versteckten Kosten</td>
+<td>Gesamtkosten über Nutzungsdauer</td>
+</tr>
+<tr>
+<td><strong>ROI</strong></td>
+<td>Rückflüsse ÷ Investitionskosten</td>
+<td>Verhältnis von Gewinn zu Kosten</td>
+</tr>
+<tr>
+<td><strong>Amortisationszeit</strong></td>
+<td>Nutzungsdauer ÷ ROI</td>
+<td>Zeit bis zur Kostendeckung</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="beispielvergleich-update-vs-neuanschaffung">Beispielvergleich: Update vs. Neuanschaffung<a class="headerlink" href="#beispielvergleich-update-vs-neuanschaffung" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Kennzahl</th>
+<th><strong>Update</strong></th>
+<th><strong>Neuanschaffung</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Investitionskosten</td>
+<td>15.000 €</td>
+<td>90.000 €</td>
+</tr>
+<tr>
+<td>Jährliche Einsparungen</td>
+<td>10.000 €</td>
+<td>40.000 €</td>
+</tr>
+<tr>
+<td>Laufzeit</td>
+<td>3 Jahre</td>
+<td>3 Jahre</td>
+</tr>
+<tr>
+<td><strong>ROI</strong></td>
+<td>(10.000 × 3) ÷ 15.000 = <strong>2,0</strong></td>
+<td>(40.000 × 3) ÷ 90.000 = <strong>1,33</strong></td>
+</tr>
+<tr>
+<td><strong>Amortisationszeit</strong></td>
+<td>36 ÷ 2,0 = <strong>18 Monate</strong></td>
+<td>36 ÷ 1,33 = <strong>27 Monate</strong></td>
+</tr>
+</tbody>
+</table>
+<p>→ Das <strong>Update</strong> amortisiert sich schneller,<br />
+die <strong>Neuanschaffung</strong> ist langfristig zukunftssicherer.</p>
+<hr />
+<h2 id="reflexion">Reflexion<a class="headerlink" href="#reflexion" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Welche Risiken übersieht man, wenn man nur den ROI betrachtet?</li>
+<li>Warum kann eine teurere Lösung langfristig wirtschaftlicher sein?</li>
+<li>Welche Rolle spielt die Lebensdauer in der Entscheidung?</li>
+</ul>
+<hr />
+<h2 id="ubung">Übung<a class="headerlink" href="#ubung" title="Permanent link">&para;</a></h2>
+<details class="question" open="open">
+<summary>TCO- und ROI-Vergleich – Cloudlösung vs. On-Premise-Server</summary>
+<p>Ein mittelständisches IT-Unternehmen steht vor einer Investitionsentscheidung:
+Soll das firmeneigene Serversystem ersetzt werden – oder soll künftig auf eine Cloudlösung umgestellt werden?</p>
+<p>Beide Varianten haben unterschiedliche Kostenstrukturen und wirtschaftliche Auswirkungen.</p>
+<p><strong>Variante A – Neuer On-Premise-Server</strong>
+- Anschaffungskosten (Hardware, Installation): 90.000 €
+- Laufende Kosten pro Jahr (Strom, Wartung, Updates): 15.000 €
+- Einsparung durch höhere Effizienz: 20.000 € pro Jahr
+- Nutzungsdauer: 4 Jahre</p>
+<p><strong>Variante B – Cloudlösung</strong>
+- Einrichtungskosten (Migration, Schulung): 25.000 €
+- Monatliche Cloudgebühr: 3.500 €
+- Wegfall lokaler Wartungskosten: 10.000 € pro Jahr
+- Einsparung durch geringeren Administrationsaufwand: 8.000 € pro Jahr
+- Betrachtungszeitraum: 4 Jahre</p>
+<p><strong>Aufgaben:</strong>
+1. Berechnen Sie für beide Varianten die <strong>Total Cost of Ownership (TCO)</strong> über 4 Jahre.
+2. Berechnen Sie den <strong>Return on Investment (ROI)</strong> auf Basis der jeweiligen Rückflüsse (Einsparungen) im Verhältnis zu den Investitionskosten.
+3. Bestimmen Sie für jede Variante die <strong>Amortisationszeit (in Monaten)</strong>.
+4. Bewerten Sie, welche Lösung <strong>wirtschaftlich sinnvoller</strong> ist und warum – auch im Hinblick auf Flexibilität und Zukunftssicherheit.</p>
+<details class="info">
+<summary>Tipp</summary>
+<ul>
+<li>Der ROI zeigt die <strong>Rentabilität</strong> – je höher, desto besser.</li>
+<li>Der TCO zeigt die <strong>Gesamtkosten</strong> – je niedriger, desto besser.</li>
+<li>Eine gute Entscheidung findet das Gleichgewicht zwischen kurzfristiger Rendite und langfristiger Stabilität.</li>
+</ul>
+</details>
+<details class="success">
+<summary>Lösung</summary>
+<p><strong>1. TCO-Berechnung</strong></p>
+<p>Variante A – On-Premise:
+- Anschaffung: 90.000 €
+- Laufende Kosten: 4 × 15.000 € = 60.000 €
+→ <strong>TCO = 150.000 €</strong></p>
+<p>Variante B – Cloud:
+- Einrichtung: 25.000 €
+- Cloudgebühren: 3.500 € × 48 Monate = 168.000 €
+→ <strong>TCO = 193.000 €</strong></p>
+<hr />
+<p><strong>2. ROI-Berechnung</strong></p>
+<p>Rückflüsse = Einsparungen über 4 Jahre</p>
+<p>Variante A:
+- 4 × 20.000 € = 80.000 €
+ROI = 80.000 ÷ 90.000 = <strong>0,89</strong></p>
+<p>Variante B:
+- Einsparungen (Wartung + Admin): (10.000 + 8.000) × 4 = 72.000 €
+- Investition: 25.000 €
+ROI = 72.000 ÷ 25.000 = <strong>2,88</strong></p>
+<hr />
+<p><strong>3. Amortisationszeit</strong></p>
+<p>Variante A:
+- Laufzeit 48 Monate ÷ 0,89 = <strong>≈ 54 Monate</strong> → keine volle Amortisation innerhalb der Nutzungsdauer</p>
+<p>Variante B:
+- Laufzeit 48 Monate ÷ 2,88 = <strong>≈ 17 Monate</strong></p>
+<hr />
+<p><strong>4. Bewertung</strong></p>
+<ul>
+<li>Wirtschaftlich <strong>besser</strong> ist die <strong>Cloudlösung</strong> (Variante B), da:</li>
+<li>geringere Anfangsinvestition</li>
+<li>schnellere Amortisation (~17 Monate)</li>
+<li>flexiblere Skalierung und planbare monatliche Kosten</li>
+<li>Variante A lohnt sich nur, wenn langfristig höhere Datenmengen oder absolute Datensouveränität gefordert sind.</li>
+</ul>
+</details>
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../kalkulation_stundensatz/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Stundensatzkalkulation in IT-Dienstleistungen">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Stundensatzkalkulation in IT-Dienstleistungen
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../m4/angebotsvergleich/" class="md-footer__link md-footer__link--next" aria-label="Next: Angebotsvergleiche bei Beschaffungsmaßnahmen durchführen">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Angebotsvergleiche bei Beschaffungsmaßnahmen durchführen
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Qualidy GmbH
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.kununu.com/de/qualidy" target="_blank" rel="noopener" title="www.kununu.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M311 86.3c12.3-12.7 12-32.9-.7-45.2s-32.9-12-45.2.7C143.4 167.2 76.4 236.3 64 249V64c0-17.7-14.3-32-32-32S0 46.3 0 64v384c0 17.7 14.3 32 32 32s32-14.3 32-32V341l64.7-66.7 133 192c10.1 14.5 30 18.1 44.5 8.1s18.1-30 8.1-44.5L174.1 227.4z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://de.linkedin.com/company/qualidy" target="_blank" rel="noopener" title="de.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3M135.4 416H69V202.2h66.5V416zM102.2 96a38.5 38.5 0 1 1 0 77 38.5 38.5 0 1 1 0-77m282.1 320h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.google.com/search?sca_esv=7e6ba2047fcb60f3&uds=AMwkrPtyB8MsmozA4Lwzqy2G2HCu-abqzc6moOG48q3gP5dtjTRzC2Ws0eSwcyLXDfZNuYCrZ7ByIreHLG9th3vKLekPoVeey0tumAbet4cVLQRLzdRFhUbOGbnyp3xo1V0hzzaNmkCN&si=AKbGX_rcuucMgom2rba1cdwsvM2SVoIkP2btyqGMV4t0GuHIs4sGV_1tpuqR0YHG4Rzd9SdJcL-lW6E-2aJA5azZLTKkIOrZ2j2aWwoBkVbdEJ0o0GPcQhs%3D&q=Qualidy+GmbH+Rezensionen&sa=X&ved=2ahUKEwibsbnSgcmFAxXNQvEDHaVYCiAQ3PALegQIRxAF" target="_blank" rel="noopener" title="www.google.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.35 11.1h-9.17v2.73h6.51c-.33 3.81-3.5 5.44-6.5 5.44C8.36 19.27 5 16.25 5 12c0-4.1 3.2-7.27 7.2-7.27 3.09 0 4.9 1.97 4.9 1.97L19 4.72S16.56 2 12.1 2C6.42 2 2.03 6.8 2.03 12c0 5.05 4.13 10 10.22 10 5.35 0 9.25-3.67 9.25-9.09 0-1.15-.15-1.81-.15-1.81"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://qualidy.de" target="_blank" rel="noopener" title="qualidy.de" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tracking", "navigation.path", "navigation.top", "navigation.footer", "toc.follow", "toc.integrate", "content.code.copy", "content.code.annotate"], "search": "../../../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
