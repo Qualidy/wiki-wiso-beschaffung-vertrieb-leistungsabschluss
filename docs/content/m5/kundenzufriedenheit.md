@@ -27,7 +27,7 @@ Das Kundengespräch bei Mängeln / Abnahme steht **am Ende** der Prozesskette:
 
 Ziel ist es, am Ende nicht nur „geliefert“ zu haben,  
 sondern eine **nachvollziehbar gute Lösung** und eine **stabile Kundenbeziehung** zu sichern.
-
+ 
 ---
 
 ## Grundlagen professioneller Kundengespräche
@@ -223,8 +223,6 @@ Erarbeitet in Kleingruppen einen **Gesprächsleitfaden** für folgenden Fall:
 2. Notiert jeweils **Beispielformulierungen**, die ihr im Gespräch nutzen würdet.
 3. Legt fest, welche Informationen ihr im System dokumentiert (Stichworte: Mängelanzeige, Fotos, Fristen).
 
-{{ task(file="tasks/kundengespraech_reklamation_1.yaml") }}
-
 ---
 
 ## Übung 2 – Feedbackbogen für JIKU & Kanzlei
@@ -244,8 +242,6 @@ JIKU möchte nun systematisch **Kundenzufriedenheit messen**.
    als auch **Kommunikation & Service** abgefragt werden.
 4. Formuliert eine kurze Einleitung, die erklärt,  
    warum das Feedback wichtig ist.
-
-{{ task(file="tasks/kundenzufriedenheit_feedback_1.yaml") }}
 
 ---
 
